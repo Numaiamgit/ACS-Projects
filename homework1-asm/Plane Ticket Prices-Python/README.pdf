@@ -1,0 +1,20 @@
+Proiect PCLP3 - Gheorghe Alexandru-Nicolae - 311CB
+
+Am ales sa fac un model care poate estima pretul unui zbor de 
+pe aeroportul Otopeni catre 7 dintre cele mai mari capitale ale europei
+
+Pentru acest proiect am ales sa colectez datele de la un API
+de pe platforma RapidAPI. Aceasta a fost cea mai lunga parte a temei
+intrucat mi-a fost foarte greu sa gasesc un API care sa-mi dea gratis numarul de request-uri
+necesar. Intr-un final am luat API-ul de la Kiwi care ofera 300 request-uri gratuite.
+Problema nu se termina aici totusi: Aveam nevoie de cel putin 455 request-uri pentru a colecta datele necesare.
+(Am luat din fiecare zi din intervalul dintre sesiune si sesiunea de restante si am facut request pentru fiecare ruta posibila
+ - din otopeni catre capitalele selectate). Asa ca mi-am facut 2 conturi pentru a obtine 2 chei a cate 300
+ de request-uri gratuite. Cand prima cheie returneaza un request failed, atunci se schimba si se trece pe a doua.
+
+ Dupa ce am impartit datele corespunzator cerintei am rezolvat cerinta cu EDA intr-un jupiter notebook, unde am pus toate comentariile si graficele cerute.
+ Antrenarea si evaluarea sun realizate de antrenare+evaluare.py care realizeaza un grafic ce compara preturile prezise
+ cu cele reale din test apoi salveaza modelul si lista exacta + ordinea coloanelor pentru a le oferi catre interfata grafica
+
+ Interfata grafica foloseste media duratelor de zbor pentru fiecare capitala, intrucat pentru a cauta pretul unui zbor
+ de obicei nu se introduce durata zborului. Interfata grafica ofera si o interpretare grafica a rezultatelor
