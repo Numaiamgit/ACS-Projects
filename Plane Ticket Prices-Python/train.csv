@@ -1,0 +1,2368 @@
+nume_companie,oras_plecare,oras_sosire,ora_plecare,zile_pana_la_plecare,durata_minute,numar_escale,pret_bilet
+HiSky Europe,OTP,FRA,10,87,160.0,0,77.0
+Ryanair,OTP,VIE,9,71,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,18,59,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,6,60,200.0,0,50.0
+KLM Royal Dutch Airlines,OTP,LHR,14,61,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,34,200.0,0,48.0
+Air Serbia,OTP,LHR,16,37,300.0,1,111.0
+Animawings,OTP,CDG,10,36,190.0,0,94.0
+Wizz Air Malta,OTP,FCO,20,80,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,76,300.0,1,92.0
+Animawings,OTP,CDG,10,84,190.0,0,85.0
+Ryanair,OTP,VIE,21,61,100.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,81,200.0,0,53.0
+Wizz Air Malta,OTP,AMS,13,34,375.0,1,61.0
+Ryanair,OTP,VIE,16,41,105.0,0,26.0
+Ryanair,OTP,VIE,16,79,105.0,0,26.0
+Lufthansa,OTP,FRA,14,35,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,18,87,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,7,83,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,49,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,67,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,14,52,300.0,1,92.0
+Ryanair,OTP,VIE,9,65,105.0,0,26.0
+Tarom,OTP,AMS,16,85,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,6,26,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,7,71,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,28,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,14,87,335.0,1,92.0
+Wizz Air Malta,OTP,FCO,7,31,140.0,0,25.0
+Ryanair,OTP,VIE,9,42,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,6,81,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,18,65,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,7,61,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,18,64,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,20,29,140.0,0,25.0
+HiSky Europe,OTP,FRA,10,88,160.0,0,88.0
+Air Serbia,OTP,LHR,16,74,300.0,1,111.0
+Wizz Air Malta,OTP,BCN,18,48,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,76,140.0,0,16.0
+Wizz Air Malta,OTP,BCN,12,85,200.0,0,52.0
+HiSky Europe,OTP,FRA,10,69,160.0,0,77.0
+Wizz Air Malta,OTP,BCN,12,81,200.0,0,52.0
+Wizz Air Malta,OTP,BCN,6,56,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,18,58,200.0,0,48.0
+Lufthansa,OTP,FRA,14,67,155.0,0,79.0
+KLM Royal Dutch Airlines,OTP,LHR,6,83,405.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,86,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,7,33,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,33,200.0,0,49.0
+Lufthansa,OTP,FRA,6,72,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,69,200.0,0,50.0
+KLM Royal Dutch Airlines,OTP,LHR,14,62,335.0,1,92.0
+Ryanair,OTP,VIE,21,60,105.0,0,21.0
+Ryanair,OTP,VIE,12,31,105.0,0,19.0
+Ryanair,OTP,VIE,21,87,105.0,0,21.0
+HiSky Europe,OTP,CDG,10,57,180.0,0,98.0
+Wizz Air Malta,OTP,FCO,20,81,140.0,0,16.0
+Tarom,OTP,AMS,16,48,185.0,0,113.0
+Lufthansa,OTP,FRA,14,47,155.0,0,79.0
+Ryanair,OTP,VIE,12,57,105.0,0,24.0
+Wizz Air Malta,OTP,FCO,7,83,140.0,0,24.0
+HiSky Europe,OTP,CDG,10,69,180.0,0,98.0
+HiSky Europe,OTP,CDG,10,25,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,6,42,200.0,0,49.0
+Animawings,OTP,CDG,10,83,190.0,0,85.0
+Ryanair,OTP,VIE,21,70,105.0,0,19.0
+HiSky Europe,OTP,FRA,10,56,160.0,0,87.0
+Wizz Air Malta,OTP,FCO,20,85,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,7,74,340.0,1,92.0
+Animawings,OTP,CDG,10,45,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,6,37,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,20,84,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,20,41,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,7,35,340.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,83,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,54,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,7,64,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,85,200.0,0,50.0
+Tarom,OTP,AMS,16,47,185.0,0,113.0
+Tarom,OTP,AMS,16,63,185.0,0,113.0
+Ryanair,OTP,VIE,21,76,100.0,0,22.0
+Wizz Air Malta,OTP,BCN,18,58,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,14,77,335.0,1,106.0
+Wizz Air Malta,OTP,BCN,6,85,200.0,0,51.0
+Ryanair,OTP,VIE,12,86,105.0,0,19.0
+Animawings,OTP,CDG,10,88,190.0,0,85.0
+Ryanair,OTP,VIE,16,78,105.0,0,26.0
+Ryanair,OTP,VIE,21,76,105.0,0,21.0
+KLM Royal Dutch Airlines,OTP,LHR,7,83,340.0,1,92.0
+Ryanair,OTP,VIE,12,78,105.0,0,24.0
+Ryanair,OTP,VIE,12,32,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,7,70,140.0,0,25.0
+Ryanair,OTP,VIE,21,28,100.0,0,22.0
+Lufthansa,OTP,FRA,14,77,155.0,0,79.0
+KLM Royal Dutch Airlines,OTP,LHR,14,47,350.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,26,140.0,0,16.0
+Ryanair,OTP,VIE,21,66,105.0,0,23.0
+Ryanair,OTP,VIE,21,39,100.0,0,25.0
+Ryanair,OTP,VIE,21,68,100.0,0,25.0
+Wizz Air Malta,OTP,FCO,20,27,140.0,0,27.0
+Ryanair,OTP,VIE,12,29,105.0,0,23.0
+HiSky Europe,OTP,FRA,10,77,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,14,29,335.0,1,106.0
+Ryanair,OTP,VIE,21,87,105.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,68,335.0,1,106.0
+KLM Royal Dutch Airlines,OTP,LHR,6,60,405.0,1,92.0
+Lufthansa,OTP,FRA,14,39,155.0,0,79.0
+KLM Royal Dutch Airlines,OTP,LHR,7,40,340.0,1,92.0
+Ryanair,OTP,VIE,21,53,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,6,61,200.0,0,49.0
+Ryanair,OTP,VIE,21,44,105.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,74,200.0,0,47.0
+Tarom,OTP,AMS,16,61,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,20,56,140.0,0,16.0
+Air Serbia,OTP,LHR,16,75,300.0,1,82.0
+KLM Royal Dutch Airlines,OTP,LHR,7,47,340.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,86,350.0,1,92.0
+Ryanair,OTP,VIE,21,50,105.0,0,19.0
+Ryanair,OTP,VIE,9,75,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,7,41,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,45,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,76,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,6,33,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,7,78,140.0,0,27.0
+Wizz Air Malta,OTP,FCO,20,57,140.0,0,24.0
+HiSky Europe,OTP,CDG,10,27,180.0,0,98.0
+HiSky Europe,OTP,FRA,10,44,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,7,67,140.0,0,25.0
+HiSky Europe,OTP,FRA,10,81,160.0,0,88.0
+Ryanair,OTP,VIE,21,37,105.0,0,21.0
+Ryanair,OTP,VIE,21,62,100.0,0,25.0
+Air Serbia,OTP,LHR,16,50,300.0,1,82.0
+Ryanair,OTP,VIE,21,28,105.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,58,335.0,1,92.0
+HiSky Europe,OTP,CDG,10,49,180.0,0,98.0
+Ryanair,OTP,VIE,9,28,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,14,26,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,30,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,6,70,200.0,0,53.0
+Ryanair,OTP,VIE,21,47,105.0,0,22.0
+Ryanair,OTP,VIE,21,43,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,7,82,340.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,29,140.0,0,27.0
+Ryanair,OTP,VIE,9,79,105.0,0,19.0
+Animawings,OTP,CDG,10,64,190.0,0,85.0
+Ryanair,OTP,VIE,16,27,105.0,0,26.0
+HiSky Europe,OTP,CDG,10,65,180.0,0,98.0
+Air Serbia,OTP,LHR,16,47,300.0,1,111.0
+Wizz Air Malta,OTP,FCO,20,64,140.0,0,25.0
+Lufthansa,OTP,FRA,14,27,155.0,0,79.0
+KLM Royal Dutch Airlines,OTP,LHR,14,41,335.0,1,92.0
+HiSky Europe,OTP,CDG,10,41,180.0,0,98.0
+Lufthansa,OTP,FRA,6,74,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,18,57,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,6,48,405.0,1,92.0
+Ryanair,OTP,VIE,21,30,100.0,0,25.0
+Wizz Air Malta,OTP,BCN,18,51,200.0,0,47.0
+Tarom,OTP,AMS,8,64,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,20,39,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,77,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,18,37,200.0,0,51.0
+Ryanair,OTP,VIE,9,33,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,18,40,200.0,0,48.0
+Ryanair,OTP,VIE,9,70,105.0,0,19.0
+Lufthansa,OTP,FRA,14,45,155.0,0,79.0
+KLM Royal Dutch Airlines,OTP,LHR,7,55,340.0,1,92.0
+Air Serbia,OTP,LHR,16,77,300.0,1,111.0
+HiSky Europe,OTP,CDG,10,35,180.0,0,98.0
+KLM Royal Dutch Airlines,OTP,LHR,14,50,350.0,1,92.0
+Ryanair,OTP,VIE,16,39,105.0,0,26.0
+Ryanair,OTP,VIE,21,82,100.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,67,300.0,1,92.0
+Air Serbia,OTP,LHR,16,39,300.0,1,111.0
+Lufthansa,OTP,FRA,14,76,155.0,0,80.0
+HiSky Europe,OTP,FRA,10,63,160.0,0,77.0
+HiSky Europe,OTP,FRA,10,54,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,7,45,340.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,67,140.0,0,24.0
+Lufthansa,OTP,FRA,6,82,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,70,200.0,0,49.0
+KLM Royal Dutch Airlines,OTP,LHR,14,65,335.0,1,106.0
+KLM Royal Dutch Airlines,OTP,LHR,14,29,335.0,1,92.0
+Ryanair,OTP,VIE,21,41,105.0,0,21.0
+Wizz Air Malta,OTP,FCO,20,55,140.0,0,25.0
+Ryanair,OTP,VIE,16,49,105.0,0,26.0
+Animawings,OTP,CDG,10,83,190.0,0,94.0
+Ryanair,OTP,VIE,12,36,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,31,350.0,1,92.0
+Lufthansa,OTP,FRA,6,29,155.0,0,80.0
+Ryanair,OTP,VIE,21,74,100.0,0,25.0
+Ryanair,OTP,VIE,12,73,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,37,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,14,52,335.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,7,44,340.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,45,140.0,0,24.0
+Wizz Air Malta,OTP,AMS,13,42,375.0,1,61.0
+Animawings,OTP,CDG,10,81,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,6,80,200.0,0,47.0
+Ryanair,OTP,VIE,21,66,100.0,0,22.0
+Lufthansa,OTP,FRA,14,42,155.0,0,79.0
+Ryanair,OTP,VIE,9,82,105.0,0,19.0
+Ryanair,OTP,VIE,21,36,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,20,50,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,33,350.0,1,92.0
+Tarom,OTP,AMS,8,36,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,14,57,300.0,1,92.0
+Lufthansa,OTP,FRA,6,48,155.0,0,80.0
+Wizz Air Malta,OTP,AMS,13,48,375.0,1,61.0
+Ryanair,OTP,VIE,21,55,105.0,0,21.0
+HiSky Europe,OTP,FRA,10,81,160.0,0,87.0
+Wizz Air Malta,OTP,FCO,7,41,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,20,86,140.0,0,24.0
+Animawings,OTP,CDG,10,35,190.0,0,85.0
+Ryanair,OTP,VIE,21,67,105.0,0,22.0
+Ryanair,OTP,VIE,16,44,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,6,73,405.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,29,200.0,0,47.0
+Ryanair,OTP,VIE,12,80,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,75,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,7,69,140.0,0,27.0
+HiSky Europe,OTP,CDG,10,31,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,6,40,200.0,0,47.0
+Wizz Air Malta,OTP,FCO,7,28,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,36,200.0,0,51.0
+Tarom,OTP,AMS,8,45,185.0,0,113.0
+Ryanair,OTP,VIE,12,62,105.0,0,19.0
+Wizz Air Malta,OTP,AMS,13,81,375.0,1,61.0
+Tarom,OTP,AMS,16,86,185.0,0,113.0
+Ryanair,OTP,VIE,21,72,105.0,0,19.0
+Lufthansa,OTP,FRA,6,64,155.0,0,80.0
+Ryanair,OTP,VIE,21,58,105.0,0,23.0
+Animawings,OTP,CDG,10,25,190.0,0,85.0
+HiSky Europe,OTP,CDG,10,85,180.0,0,98.0
+Wizz Air Malta,OTP,AMS,13,40,375.0,1,61.0
+KLM Royal Dutch Airlines,OTP,LHR,6,58,405.0,1,92.0
+Wizz Air Malta,OTP,AMS,13,87,375.0,1,61.0
+HiSky Europe,OTP,FRA,10,78,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,7,69,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,58,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,18,53,200.0,0,50.0
+Ryanair,OTP,VIE,21,67,100.0,0,22.0
+Ryanair,OTP,VIE,12,69,105.0,0,19.0
+Ryanair,OTP,VIE,21,47,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,6,35,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,6,38,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,6,45,200.0,0,51.0
+Lufthansa,OTP,FRA,14,32,155.0,0,79.0
+HiSky Europe,OTP,CDG,10,37,180.0,0,98.0
+KLM Royal Dutch Airlines,OTP,LHR,14,63,335.0,1,106.0
+KLM Royal Dutch Airlines,OTP,LHR,14,74,335.0,1,106.0
+Lufthansa,OTP,FRA,14,86,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,18,46,200.0,0,50.0
+Tarom,OTP,AMS,16,44,185.0,0,113.0
+Lufthansa,OTP,FRA,14,36,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,6,53,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,35,140.0,0,25.0
+Air Serbia,OTP,LHR,16,82,300.0,1,82.0
+Wizz Air Malta,OTP,FCO,7,56,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,44,200.0,0,50.0
+HiSky Europe,OTP,CDG,10,52,180.0,0,98.0
+KLM Royal Dutch Airlines,OTP,LHR,14,74,335.0,1,92.0
+Lufthansa,OTP,FRA,14,83,155.0,0,80.0
+Lufthansa,OTP,FRA,6,88,155.0,0,80.0
+Air Serbia,OTP,LHR,16,58,300.0,1,111.0
+Ryanair,OTP,VIE,16,32,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,18,34,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,14,36,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,49,200.0,0,53.0
+Wizz Air Malta,OTP,FCO,7,37,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,69,300.0,1,106.0
+Ryanair,OTP,VIE,21,79,105.0,0,21.0
+HiSky Europe,OTP,CDG,10,51,180.0,0,98.0
+Tarom,OTP,AMS,16,51,185.0,0,113.0
+Wizz Air Malta,OTP,AMS,13,85,375.0,1,61.0
+Ryanair,OTP,VIE,21,36,105.0,0,22.0
+Animawings,OTP,CDG,10,66,190.0,0,85.0
+Ryanair,OTP,VIE,21,33,100.0,0,22.0
+Ryanair,OTP,VIE,9,86,105.0,0,19.0
+Animawings,OTP,CDG,10,81,190.0,0,85.0
+Air Serbia,OTP,LHR,16,62,300.0,1,111.0
+Lufthansa,OTP,FRA,14,69,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,18,66,200.0,0,50.0
+Ryanair,OTP,VIE,21,59,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,6,41,200.0,0,51.0
+Ryanair,OTP,VIE,21,34,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,18,83,200.0,0,48.0
+Air Serbia,OTP,LHR,16,25,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,6,41,200.0,0,53.0
+Air Serbia,OTP,LHR,16,46,300.0,1,82.0
+Lufthansa,OTP,FRA,6,38,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,6,51,405.0,1,92.0
+Tarom,OTP,AMS,8,53,185.0,0,113.0
+HiSky Europe,OTP,CDG,10,73,180.0,0,98.0
+Air Serbia,OTP,LHR,16,54,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,18,85,200.0,0,51.0
+Tarom,OTP,AMS,16,70,185.0,0,113.0
+Ryanair,OTP,VIE,21,53,105.0,0,19.0
+Ryanair,OTP,VIE,21,72,105.0,0,22.0
+Wizz Air Malta,OTP,FCO,20,83,140.0,0,16.0
+Ryanair,OTP,VIE,21,77,100.0,0,22.0
+Ryanair,OTP,VIE,21,46,100.0,0,25.0
+Lufthansa,OTP,FRA,6,60,155.0,0,80.0
+Ryanair,OTP,VIE,21,70,105.0,0,22.0
+Wizz Air Malta,OTP,FCO,20,81,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,86,335.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,7,30,340.0,1,92.0
+Animawings,OTP,CDG,10,54,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,6,51,200.0,0,53.0
+HiSky Europe,OTP,FRA,10,43,160.0,0,77.0
+Wizz Air Malta,OTP,FCO,20,51,140.0,0,25.0
+Ryanair,OTP,VIE,21,51,100.0,0,22.0
+Wizz Air Malta,OTP,FCO,20,66,140.0,0,16.0
+KLM Royal Dutch Airlines,OTP,LHR,14,31,300.0,1,106.0
+HiSky Europe,OTP,FRA,10,52,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,14,37,335.0,1,106.0
+Ryanair,OTP,VIE,12,59,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,12,50,200.0,0,52.0
+Lufthansa,OTP,FRA,14,37,155.0,0,79.0
+Lufthansa,OTP,FRA,14,52,155.0,0,79.0
+KLM Royal Dutch Airlines,OTP,LHR,14,77,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,63,200.0,0,51.0
+Ryanair,OTP,VIE,21,78,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,18,78,200.0,0,51.0
+HiSky Europe,OTP,CDG,10,56,180.0,0,98.0
+Tarom,OTP,AMS,8,59,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,14,40,335.0,1,92.0
+Tarom,OTP,AMS,8,82,185.0,0,113.0
+Ryanair,OTP,VIE,21,26,105.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,40,350.0,1,92.0
+Ryanair,OTP,VIE,21,59,100.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,68,200.0,0,50.0
+Wizz Air Malta,OTP,AMS,13,38,375.0,1,61.0
+Lufthansa,OTP,FRA,14,60,155.0,0,79.0
+Ryanair,OTP,VIE,21,87,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,20,57,140.0,0,16.0
+Ryanair,OTP,VIE,12,67,105.0,0,24.0
+Tarom,OTP,AMS,16,36,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,7,32,140.0,0,25.0
+HiSky Europe,OTP,FRA,10,50,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,20,57,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,7,72,140.0,0,25.0
+Ryanair,OTP,VIE,21,88,105.0,0,23.0
+Ryanair,OTP,VIE,9,60,105.0,0,26.0
+Air Serbia,OTP,LHR,16,34,300.0,1,111.0
+Ryanair,OTP,VIE,16,30,105.0,0,26.0
+Ryanair,OTP,VIE,21,72,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,6,76,200.0,0,53.0
+Ryanair,OTP,VIE,9,39,105.0,0,26.0
+Ryanair,OTP,VIE,21,57,105.0,0,22.0
+Animawings,OTP,CDG,10,30,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,6,62,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,6,37,200.0,0,53.0
+Lufthansa,OTP,FRA,6,61,155.0,0,80.0
+HiSky Europe,OTP,FRA,10,83,160.0,0,87.0
+Tarom,OTP,AMS,8,71,185.0,0,113.0
+Ryanair,OTP,VIE,16,62,105.0,0,26.0
+HiSky Europe,OTP,FRA,10,25,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,6,72,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,20,43,140.0,0,24.0
+Lufthansa,OTP,FRA,14,43,155.0,0,80.0
+Animawings,OTP,CDG,10,41,190.0,0,94.0
+Ryanair,OTP,VIE,21,54,105.0,0,19.0
+Ryanair,OTP,VIE,12,75,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,60,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,20,53,140.0,0,25.0
+Ryanair,OTP,VIE,12,29,105.0,0,24.0
+Tarom,OTP,AMS,16,65,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,7,66,340.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,36,140.0,0,27.0
+HiSky Europe,OTP,FRA,10,68,160.0,0,77.0
+Ryanair,OTP,VIE,21,42,105.0,0,19.0
+Lufthansa,OTP,FRA,14,52,155.0,0,80.0
+Ryanair,OTP,VIE,21,68,105.0,0,23.0
+Wizz Air Malta,OTP,AMS,13,46,375.0,1,61.0
+Wizz Air Malta,OTP,FCO,20,46,140.0,0,27.0
+Wizz Air Malta,OTP,BCN,6,70,200.0,0,51.0
+HiSky Europe,OTP,FRA,10,60,160.0,0,87.0
+Ryanair,OTP,VIE,12,40,105.0,0,19.0
+Ryanair,OTP,VIE,21,77,105.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,44,200.0,0,51.0
+Ryanair,OTP,VIE,16,54,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,18,24,200.0,0,47.0
+Wizz Air Malta,OTP,FCO,7,65,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,6,47,405.0,1,92.0
+Ryanair,OTP,VIE,21,51,100.0,0,25.0
+Air Serbia,OTP,LHR,16,62,300.0,1,82.0
+Ryanair,OTP,VIE,21,52,105.0,0,23.0
+Lufthansa,OTP,FRA,6,59,155.0,0,80.0
+Wizz Air Malta,OTP,FCO,20,70,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,20,78,140.0,0,16.0
+KLM Royal Dutch Airlines,OTP,LHR,14,71,335.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,72,335.0,1,106.0
+Ryanair,OTP,VIE,12,82,105.0,0,23.0
+Lufthansa,OTP,FRA,14,44,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,31,200.0,0,47.0
+Ryanair,OTP,VIE,21,86,105.0,0,22.0
+Ryanair,OTP,VIE,12,65,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,20,79,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,18,49,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,6,59,200.0,0,51.0
+HiSky Europe,OTP,CDG,10,79,180.0,0,98.0
+KLM Royal Dutch Airlines,OTP,LHR,14,31,300.0,1,92.0
+HiSky Europe,OTP,CDG,10,44,180.0,0,98.0
+Wizz Air Malta,OTP,FCO,7,77,140.0,0,27.0
+Ryanair,OTP,VIE,12,85,105.0,0,23.0
+KLM Royal Dutch Airlines,OTP,LHR,6,75,405.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,87,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,7,26,140.0,0,25.0
+Air Serbia,OTP,LHR,16,49,300.0,1,82.0
+KLM Royal Dutch Airlines,OTP,LHR,6,66,405.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,72,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,48,160.0,0,77.0
+HiSky Europe,OTP,FRA,10,25,160.0,0,88.0
+Ryanair,OTP,VIE,21,73,105.0,0,22.0
+HiSky Europe,OTP,FRA,10,37,160.0,0,77.0
+Ryanair,OTP,VIE,9,44,105.0,0,19.0
+Tarom,OTP,AMS,8,26,185.0,0,113.0
+Ryanair,OTP,VIE,21,75,100.0,0,22.0
+Wizz Air Malta,OTP,BCN,18,50,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,42,140.0,0,16.0
+Tarom,OTP,AMS,8,70,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,20,30,140.0,0,24.0
+Ryanair,OTP,VIE,21,31,105.0,0,21.0
+KLM Royal Dutch Airlines,OTP,LHR,7,27,340.0,1,92.0
+Ryanair,OTP,VIE,21,51,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,72,335.0,1,92.0
+Lufthansa,OTP,FRA,14,32,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,14,34,350.0,1,92.0
+Ryanair,OTP,VIE,21,48,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,18,60,200.0,0,48.0
+Ryanair,OTP,VIE,21,48,100.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,77,350.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,6,72,405.0,1,92.0
+Ryanair,OTP,VIE,9,52,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,14,54,300.0,1,92.0
+Tarom,OTP,AMS,8,29,185.0,0,113.0
+Ryanair,OTP,VIE,16,33,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,6,85,200.0,0,50.0
+KLM Royal Dutch Airlines,OTP,LHR,14,38,350.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,54,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,18,77,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,6,50,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,18,51,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,72,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,69,200.0,0,51.0
+HiSky Europe,OTP,FRA,10,45,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,6,26,200.0,0,48.0
+Air Serbia,OTP,LHR,16,45,300.0,1,82.0
+Wizz Air Malta,OTP,FCO,7,64,140.0,0,25.0
+HiSky Europe,OTP,FRA,10,29,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,14,76,335.0,1,106.0
+KLM Royal Dutch Airlines,OTP,LHR,14,75,335.0,1,92.0
+Ryanair,OTP,VIE,21,43,100.0,0,22.0
+Ryanair,OTP,VIE,12,83,105.0,0,23.0
+Ryanair,OTP,VIE,21,80,100.0,0,22.0
+Animawings,OTP,CDG,10,61,190.0,0,94.0
+Animawings,OTP,CDG,10,27,190.0,0,85.0
+HiSky Europe,OTP,CDG,10,30,180.0,0,98.0
+HiSky Europe,OTP,FRA,10,66,160.0,0,77.0
+HiSky Europe,OTP,FRA,10,79,160.0,0,77.0
+Tarom,OTP,AMS,16,71,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,14,59,300.0,1,92.0
+Air Serbia,OTP,LHR,16,73,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,6,68,200.0,0,51.0
+HiSky Europe,OTP,FRA,10,35,160.0,0,88.0
+Ryanair,OTP,VIE,21,68,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,7,80,340.0,1,92.0
+Air Serbia,OTP,LHR,16,81,300.0,1,111.0
+KLM Royal Dutch Airlines,OTP,LHR,14,57,335.0,1,106.0
+Wizz Air Malta,OTP,BCN,12,83,200.0,0,52.0
+Wizz Air Malta,OTP,FCO,20,41,140.0,0,16.0
+KLM Royal Dutch Airlines,OTP,LHR,6,53,405.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,29,200.0,0,51.0
+Ryanair,OTP,VIE,21,36,100.0,0,22.0
+Animawings,OTP,CDG,10,45,190.0,0,94.0
+Ryanair,OTP,VIE,21,29,100.0,0,22.0
+Lufthansa,OTP,FRA,14,86,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,14,30,300.0,1,106.0
+Wizz Air Malta,OTP,FCO,20,77,140.0,0,16.0
+KLM Royal Dutch Airlines,OTP,LHR,14,66,335.0,1,92.0
+Ryanair,OTP,VIE,9,67,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,18,54,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,20,25,140.0,0,27.0
+Tarom,OTP,AMS,16,72,185.0,0,113.0
+HiSky Europe,OTP,CDG,10,42,180.0,0,98.0
+Wizz Air Malta,OTP,AMS,13,58,375.0,1,61.0
+KLM Royal Dutch Airlines,OTP,LHR,14,65,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,85,200.0,0,47.0
+Wizz Air Malta,OTP,FCO,7,80,140.0,0,24.0
+Lufthansa,OTP,FRA,14,28,155.0,0,80.0
+Wizz Air Malta,OTP,FCO,20,34,140.0,0,24.0
+Ryanair,OTP,VIE,16,73,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,18,62,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,18,57,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,6,58,200.0,0,47.0
+Tarom,OTP,AMS,8,44,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,14,41,350.0,1,92.0
+Ryanair,OTP,VIE,16,83,105.0,0,26.0
+HiSky Europe,OTP,FRA,10,31,160.0,0,77.0
+Wizz Air Malta,OTP,FCO,7,73,140.0,0,24.0
+Ryanair,OTP,VIE,9,73,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,18,65,200.0,0,51.0
+Ryanair,OTP,VIE,21,65,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,7,69,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,20,39,140.0,0,27.0
+KLM Royal Dutch Airlines,OTP,LHR,14,26,300.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,68,140.0,0,24.0
+HiSky Europe,OTP,FRA,10,41,160.0,0,87.0
+HiSky Europe,OTP,FRA,10,42,160.0,0,77.0
+Wizz Air Malta,OTP,FCO,7,86,140.0,0,25.0
+Ryanair,OTP,VIE,9,34,105.0,0,19.0
+Ryanair,OTP,VIE,12,49,105.0,0,24.0
+Ryanair,OTP,VIE,9,83,105.0,0,26.0
+Ryanair,OTP,VIE,16,36,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,6,50,405.0,1,92.0
+Ryanair,OTP,VIE,12,27,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,6,51,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,12,56,200.0,0,52.0
+KLM Royal Dutch Airlines,OTP,LHR,7,43,340.0,1,92.0
+Ryanair,OTP,VIE,16,55,105.0,0,26.0
+Wizz Air Malta,OTP,FCO,20,74,140.0,0,16.0
+HiSky Europe,OTP,FRA,10,80,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,18,76,200.0,0,47.0
+Animawings,OTP,CDG,10,50,190.0,0,94.0
+Wizz Air Malta,OTP,FCO,7,69,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,36,200.0,0,48.0
+Animawings,OTP,CDG,10,55,190.0,0,85.0
+KLM Royal Dutch Airlines,OTP,LHR,14,27,350.0,1,92.0
+Ryanair,OTP,VIE,12,53,105.0,0,19.0
+Tarom,OTP,AMS,8,79,185.0,0,113.0
+Ryanair,OTP,VIE,12,38,105.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,6,55,405.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,6,61,405.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,83,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,18,24,200.0,0,50.0
+Wizz Air Malta,OTP,AMS,13,62,375.0,1,61.0
+Wizz Air Malta,OTP,FCO,20,27,140.0,0,16.0
+Tarom,OTP,AMS,16,41,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,6,42,200.0,0,50.0
+Animawings,OTP,CDG,10,57,190.0,0,85.0
+Wizz Air Malta,OTP,FCO,7,49,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,73,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,7,33,340.0,1,92.0
+Lufthansa,OTP,FRA,14,87,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,18,39,200.0,0,48.0
+Ryanair,OTP,VIE,12,42,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,88,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,14,70,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,30,200.0,0,47.0
+Animawings,OTP,CDG,10,35,190.0,0,94.0
+Lufthansa,OTP,FRA,14,67,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,14,78,300.0,1,92.0
+Wizz Air Malta,OTP,FCO,7,30,140.0,0,24.0
+Ryanair,OTP,VIE,21,29,105.0,0,22.0
+Animawings,OTP,CDG,10,38,190.0,0,85.0
+Wizz Air Malta,OTP,FCO,20,30,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,87,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,20,39,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,7,57,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,73,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,14,67,300.0,1,106.0
+Wizz Air Malta,OTP,BCN,6,53,200.0,0,47.0
+Tarom,OTP,AMS,8,42,185.0,0,113.0
+Ryanair,OTP,VIE,21,25,105.0,0,19.0
+Ryanair,OTP,VIE,16,75,105.0,0,26.0
+HiSky Europe,OTP,FRA,10,53,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,18,78,200.0,0,48.0
+Ryanair,OTP,VIE,21,43,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,20,24,140.0,0,24.0
+Ryanair,OTP,VIE,21,41,105.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,40,200.0,0,51.0
+Animawings,OTP,CDG,10,80,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,6,34,200.0,0,51.0
+Lufthansa,OTP,FRA,14,76,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,6,32,200.0,0,47.0
+Tarom,OTP,AMS,8,55,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,12,51,200.0,0,52.0
+Wizz Air Malta,OTP,BCN,6,79,200.0,0,53.0
+Lufthansa,OTP,FRA,14,74,155.0,0,80.0
+Wizz Air Malta,OTP,FCO,20,52,140.0,0,27.0
+KLM Royal Dutch Airlines,OTP,LHR,14,55,335.0,1,106.0
+Lufthansa,OTP,FRA,6,80,155.0,0,80.0
+Ryanair,OTP,VIE,9,31,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,12,60,200.0,0,52.0
+Lufthansa,OTP,FRA,14,80,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,52,200.0,0,47.0
+Ryanair,OTP,VIE,21,71,105.0,0,22.0
+Wizz Air Malta,OTP,BCN,18,62,200.0,0,48.0
+HiSky Europe,OTP,FRA,10,66,160.0,0,88.0
+HiSky Europe,OTP,FRA,10,81,160.0,0,77.0
+Wizz Air Malta,OTP,FCO,20,35,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,12,28,200.0,0,52.0
+KLM Royal Dutch Airlines,OTP,LHR,14,60,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,46,200.0,0,51.0
+Tarom,OTP,AMS,16,80,185.0,0,113.0
+Animawings,OTP,CDG,10,24,190.0,0,85.0
+Wizz Air Malta,OTP,FCO,20,58,140.0,0,16.0
+Wizz Air Malta,OTP,BCN,6,30,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,20,51,140.0,0,27.0
+HiSky Europe,OTP,FRA,10,32,160.0,0,87.0
+Ryanair,OTP,VIE,21,61,100.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,26,335.0,1,106.0
+KLM Royal Dutch Airlines,OTP,LHR,14,56,335.0,1,92.0
+Ryanair,OTP,VIE,21,26,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,26,200.0,0,50.0
+Ryanair,OTP,VIE,12,75,105.0,0,19.0
+Animawings,OTP,CDG,10,86,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,18,48,200.0,0,50.0
+Animawings,OTP,CDG,10,67,190.0,0,94.0
+HiSky Europe,OTP,FRA,10,80,160.0,0,77.0
+Lufthansa,OTP,FRA,14,55,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,26,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,6,87,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,7,53,140.0,0,25.0
+Ryanair,OTP,VIE,21,70,100.0,0,25.0
+Ryanair,OTP,VIE,21,84,105.0,0,19.0
+Ryanair,OTP,VIE,12,87,105.0,0,23.0
+KLM Royal Dutch Airlines,OTP,LHR,7,61,340.0,1,92.0
+HiSky Europe,OTP,FRA,10,65,160.0,0,87.0
+HiSky Europe,OTP,FRA,10,37,160.0,0,87.0
+Animawings,OTP,CDG,10,57,190.0,0,94.0
+Ryanair,OTP,VIE,9,61,105.0,0,19.0
+Air Serbia,OTP,LHR,16,59,300.0,1,111.0
+KLM Royal Dutch Airlines,OTP,LHR,7,36,340.0,1,92.0
+Lufthansa,OTP,FRA,14,56,155.0,0,79.0
+Animawings,OTP,CDG,10,42,190.0,0,85.0
+Wizz Air Malta,OTP,FCO,20,70,140.0,0,16.0
+Lufthansa,OTP,FRA,6,55,155.0,0,80.0
+HiSky Europe,OTP,FRA,10,66,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,6,28,200.0,0,47.0
+Ryanair,OTP,VIE,12,39,105.0,0,23.0
+KLM Royal Dutch Airlines,OTP,LHR,6,71,405.0,1,92.0
+HiSky Europe,OTP,FRA,10,62,160.0,0,87.0
+Wizz Air Malta,OTP,FCO,20,40,140.0,0,27.0
+KLM Royal Dutch Airlines,OTP,LHR,14,78,335.0,1,106.0
+Wizz Air Malta,OTP,FCO,20,71,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,59,200.0,0,47.0
+Ryanair,OTP,VIE,9,73,105.0,0,26.0
+Ryanair,OTP,VIE,9,81,105.0,0,26.0
+Animawings,OTP,CDG,10,76,190.0,0,85.0
+Air Serbia,OTP,LHR,16,83,300.0,1,82.0
+Lufthansa,OTP,FRA,14,51,155.0,0,79.0
+Wizz Air Malta,OTP,AMS,13,29,375.0,1,61.0
+Wizz Air Malta,OTP,BCN,6,25,200.0,0,50.0
+Wizz Air Malta,OTP,AMS,13,65,375.0,1,61.0
+Wizz Air Malta,OTP,FCO,20,46,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,32,335.0,1,92.0
+Ryanair,OTP,VIE,21,35,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,59,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,14,68,350.0,1,92.0
+Ryanair,OTP,VIE,21,88,105.0,0,19.0
+HiSky Europe,OTP,CDG,10,34,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,18,68,200.0,0,51.0
+Lufthansa,OTP,FRA,14,72,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,6,88,200.0,0,53.0
+Tarom,OTP,AMS,16,83,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,7,58,340.0,1,92.0
+Ryanair,OTP,VIE,12,49,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,7,88,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,18,64,200.0,0,50.0
+Animawings,OTP,CDG,10,28,190.0,0,94.0
+Ryanair,OTP,VIE,9,38,105.0,0,26.0
+Wizz Air Malta,OTP,FCO,20,59,140.0,0,25.0
+HiSky Europe,OTP,FRA,10,34,160.0,0,88.0
+Ryanair,OTP,VIE,21,55,105.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,42,200.0,0,47.0
+Lufthansa,OTP,FRA,14,31,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,14,64,350.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,82,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,14,73,335.0,1,106.0
+Ryanair,OTP,VIE,12,31,105.0,0,23.0
+KLM Royal Dutch Airlines,OTP,LHR,14,28,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,45,200.0,0,53.0
+KLM Royal Dutch Airlines,OTP,LHR,14,36,335.0,1,92.0
+Tarom,OTP,AMS,8,34,185.0,0,113.0
+Ryanair,OTP,VIE,21,70,105.0,0,21.0
+Lufthansa,OTP,FRA,6,68,155.0,0,80.0
+Ryanair,OTP,VIE,21,32,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,20,46,140.0,0,16.0
+Wizz Air Malta,OTP,FCO,20,28,140.0,0,16.0
+KLM Royal Dutch Airlines,OTP,LHR,14,34,300.0,1,92.0
+Ryanair,OTP,VIE,21,73,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,87,335.0,1,106.0
+Animawings,OTP,CDG,10,40,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,18,78,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,18,48,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,6,48,200.0,0,47.0
+Wizz Air Malta,OTP,FCO,20,78,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,55,300.0,1,106.0
+Ryanair,OTP,VIE,21,72,100.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,53,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,54,200.0,0,49.0
+Lufthansa,OTP,FRA,14,25,155.0,0,80.0
+HiSky Europe,OTP,FRA,10,75,160.0,0,88.0
+HiSky Europe,OTP,FRA,10,72,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,6,24,200.0,0,48.0
+Wizz Air Malta,OTP,BCN,18,56,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,6,59,200.0,0,50.0
+Ryanair,OTP,VIE,21,87,100.0,0,25.0
+Ryanair,OTP,VIE,21,52,100.0,0,25.0
+HiSky Europe,OTP,FRA,10,67,160.0,0,77.0
+Ryanair,OTP,VIE,12,88,105.0,0,19.0
+Tarom,OTP,AMS,16,82,185.0,0,113.0
+Tarom,OTP,AMS,8,67,185.0,0,113.0
+Ryanair,OTP,VIE,21,43,100.0,0,25.0
+Tarom,OTP,AMS,8,84,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,7,42,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,46,200.0,0,53.0
+Animawings,OTP,CDG,10,27,190.0,0,94.0
+Ryanair,OTP,VIE,21,73,100.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,42,335.0,1,106.0
+Ryanair,OTP,VIE,16,88,105.0,0,26.0
+Ryanair,OTP,VIE,12,66,105.0,0,19.0
+Lufthansa,OTP,FRA,14,81,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,81,200.0,0,49.0
+Wizz Air Malta,OTP,FCO,7,79,140.0,0,24.0
+Ryanair,OTP,VIE,9,72,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,6,82,200.0,0,47.0
+Ryanair,OTP,VIE,21,53,100.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,55,300.0,1,92.0
+Lufthansa,OTP,FRA,6,81,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,33,200.0,0,47.0
+Ryanair,OTP,VIE,12,78,105.0,0,19.0
+Tarom,OTP,AMS,16,25,185.0,0,113.0
+Animawings,OTP,CDG,10,87,190.0,0,85.0
+Lufthansa,OTP,FRA,6,45,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,42,200.0,0,53.0
+Wizz Air Malta,OTP,FCO,7,60,140.0,0,27.0
+Wizz Air Malta,OTP,BCN,18,72,200.0,0,50.0
+Lufthansa,OTP,FRA,14,82,155.0,0,79.0
+Ryanair,OTP,VIE,21,31,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,18,43,200.0,0,48.0
+Ryanair,OTP,VIE,12,63,105.0,0,19.0
+Ryanair,OTP,VIE,16,67,105.0,0,26.0
+Tarom,OTP,AMS,8,38,185.0,0,113.0
+Ryanair,OTP,VIE,21,67,105.0,0,19.0
+Air Serbia,OTP,LHR,16,38,300.0,1,82.0
+Tarom,OTP,AMS,8,81,185.0,0,113.0
+Tarom,OTP,AMS,8,50,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,20,30,140.0,0,16.0
+Wizz Air Malta,OTP,FCO,20,28,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,58,200.0,0,50.0
+Tarom,OTP,AMS,8,72,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,18,88,200.0,0,50.0
+HiSky Europe,OTP,FRA,10,59,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,6,42,405.0,1,92.0
+Ryanair,OTP,VIE,21,61,105.0,0,22.0
+Ryanair,OTP,VIE,12,42,105.0,0,19.0
+Air Serbia,OTP,LHR,16,78,300.0,1,111.0
+Wizz Air Malta,OTP,BCN,6,62,200.0,0,53.0
+Ryanair,OTP,VIE,21,27,105.0,0,23.0
+Wizz Air Malta,OTP,AMS,13,64,375.0,1,61.0
+Tarom,OTP,AMS,16,68,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,14,50,300.0,1,92.0
+Ryanair,OTP,VIE,21,33,105.0,0,22.0
+HiSky Europe,OTP,FRA,10,42,160.0,0,88.0
+Tarom,OTP,AMS,8,80,185.0,0,113.0
+Lufthansa,OTP,FRA,14,29,155.0,0,79.0
+Wizz Air Malta,OTP,FCO,7,44,140.0,0,24.0
+Ryanair,OTP,VIE,21,65,105.0,0,22.0
+Tarom,OTP,AMS,8,49,185.0,0,113.0
+Ryanair,OTP,VIE,21,62,105.0,0,23.0
+Lufthansa,OTP,FRA,14,35,155.0,0,79.0
+Wizz Air Malta,OTP,AMS,13,53,375.0,1,61.0
+Wizz Air Malta,OTP,BCN,18,44,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,6,56,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,6,56,200.0,0,49.0
+Ryanair,OTP,VIE,21,35,100.0,0,25.0
+HiSky Europe,OTP,FRA,10,87,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,6,60,200.0,0,53.0
+Ryanair,OTP,VIE,21,88,100.0,0,22.0
+Ryanair,OTP,VIE,9,51,105.0,0,19.0
+Lufthansa,OTP,FRA,14,44,155.0,0,79.0
+Ryanair,OTP,VIE,21,37,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,69,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,41,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,14,33,335.0,1,106.0
+Lufthansa,OTP,FRA,6,58,155.0,0,80.0
+Lufthansa,OTP,FRA,6,62,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,18,61,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,18,73,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,20,82,140.0,0,16.0
+KLM Royal Dutch Airlines,OTP,LHR,7,76,340.0,1,92.0
+Ryanair,OTP,VIE,21,63,105.0,0,22.0
+HiSky Europe,OTP,CDG,10,86,180.0,0,98.0
+Wizz Air Malta,OTP,FCO,7,78,140.0,0,25.0
+Lufthansa,OTP,FRA,14,49,155.0,0,79.0
+Air Serbia,OTP,LHR,16,30,300.0,1,82.0
+Ryanair,OTP,VIE,12,55,105.0,0,23.0
+Air Serbia,OTP,LHR,16,36,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,6,50,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,6,75,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,6,66,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,6,74,200.0,0,53.0
+Ryanair,OTP,VIE,21,81,105.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,72,300.0,1,92.0
+Wizz Air Malta,OTP,FCO,7,73,140.0,0,27.0
+Animawings,OTP,CDG,10,53,190.0,0,94.0
+Lufthansa,OTP,FRA,6,32,155.0,0,80.0
+Ryanair,OTP,VIE,21,34,105.0,0,23.0
+HiSky Europe,OTP,FRA,10,45,160.0,0,77.0
+Wizz Air Malta,OTP,AMS,13,73,375.0,1,61.0
+Ryanair,OTP,VIE,21,86,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,57,335.0,1,92.0
+Lufthansa,OTP,FRA,14,26,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,14,24,300.0,1,106.0
+Wizz Air Malta,OTP,FCO,20,88,140.0,0,27.0
+Tarom,OTP,AMS,8,32,185.0,0,113.0
+Ryanair,OTP,VIE,21,81,105.0,0,23.0
+Tarom,OTP,AMS,8,68,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,18,64,200.0,0,51.0
+Animawings,OTP,CDG,10,52,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,6,35,200.0,0,47.0
+Ryanair,OTP,VIE,12,71,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,58,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,82,140.0,0,25.0
+Wizz Air Malta,OTP,AMS,13,84,375.0,1,61.0
+HiSky Europe,OTP,FRA,10,35,160.0,0,77.0
+Animawings,OTP,CDG,10,31,190.0,0,94.0
+Ryanair,OTP,VIE,21,25,105.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,70,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,20,79,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,48,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,58,200.0,0,53.0
+Wizz Air Malta,OTP,BCN,18,50,200.0,0,50.0
+Wizz Air Malta,OTP,AMS,13,63,375.0,1,61.0
+Tarom,OTP,AMS,8,78,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,6,57,200.0,0,53.0
+Ryanair,OTP,VIE,21,56,105.0,0,21.0
+Wizz Air Malta,OTP,FCO,7,58,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,20,38,140.0,0,16.0
+Lufthansa,OTP,FRA,6,78,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,6,31,405.0,1,92.0
+Ryanair,OTP,VIE,21,86,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,7,75,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,7,77,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,71,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,18,47,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,65,160.0,0,88.0
+Wizz Air Malta,OTP,BCN,6,60,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,6,85,200.0,0,53.0
+Wizz Air Malta,OTP,FCO,7,85,140.0,0,24.0
+Wizz Air Malta,OTP,AMS,13,51,375.0,1,61.0
+Lufthansa,OTP,FRA,14,85,155.0,0,79.0
+Wizz Air Malta,OTP,FCO,20,33,140.0,0,24.0
+Lufthansa,OTP,FRA,14,42,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,14,68,300.0,1,106.0
+Lufthansa,OTP,FRA,14,48,155.0,0,79.0
+HiSky Europe,OTP,CDG,10,50,180.0,0,98.0
+Wizz Air Malta,OTP,FCO,7,67,140.0,0,24.0
+Ryanair,OTP,VIE,21,24,105.0,0,19.0
+Ryanair,OTP,VIE,9,43,105.0,0,26.0
+Wizz Air Malta,OTP,FCO,20,84,140.0,0,16.0
+Air Serbia,OTP,LHR,16,44,300.0,1,111.0
+Ryanair,OTP,VIE,12,65,105.0,0,24.0
+Wizz Air Malta,OTP,AMS,13,72,375.0,1,61.0
+HiSky Europe,OTP,CDG,10,53,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,6,50,200.0,0,49.0
+KLM Royal Dutch Airlines,OTP,LHR,7,75,340.0,1,92.0
+Ryanair,OTP,VIE,9,24,105.0,0,19.0
+HiSky Europe,OTP,FRA,10,54,160.0,0,77.0
+Wizz Air Malta,OTP,BCN,6,65,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,6,27,200.0,0,50.0
+Ryanair,OTP,VIE,12,51,105.0,0,23.0
+KLM Royal Dutch Airlines,OTP,LHR,14,39,335.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,7,60,340.0,1,92.0
+HiSky Europe,OTP,FRA,10,82,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,7,56,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,12,82,200.0,0,52.0
+Ryanair,OTP,VIE,21,36,100.0,0,25.0
+Ryanair,OTP,VIE,16,85,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,18,67,200.0,0,47.0
+Ryanair,OTP,VIE,21,57,100.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,50,200.0,0,53.0
+KLM Royal Dutch Airlines,OTP,LHR,14,75,350.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,52,200.0,0,49.0
+Ryanair,OTP,VIE,21,35,105.0,0,21.0
+Lufthansa,OTP,FRA,14,30,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,14,62,350.0,1,92.0
+Wizz Air Malta,OTP,FCO,7,42,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,47,200.0,0,51.0
+Ryanair,OTP,VIE,12,39,105.0,0,24.0
+Wizz Air Malta,OTP,FCO,7,27,140.0,0,24.0
+Ryanair,OTP,VIE,21,59,100.0,0,25.0
+Animawings,OTP,CDG,10,69,190.0,0,85.0
+Ryanair,OTP,VIE,21,74,105.0,0,21.0
+Wizz Air Malta,OTP,FCO,7,25,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,41,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,70,160.0,0,77.0
+HiSky Europe,OTP,FRA,10,86,160.0,0,87.0
+Wizz Air Malta,OTP,FCO,7,61,140.0,0,27.0
+Ryanair,OTP,VIE,12,56,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,45,200.0,0,48.0
+Wizz Air Malta,OTP,BCN,6,78,200.0,0,50.0
+Ryanair,OTP,VIE,21,55,100.0,0,22.0
+Wizz Air Malta,OTP,FCO,7,76,140.0,0,27.0
+Wizz Air Malta,OTP,BCN,6,61,200.0,0,53.0
+Ryanair,OTP,VIE,9,45,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,14,25,350.0,1,92.0
+Wizz Air Malta,OTP,FCO,7,77,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,20,29,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,7,34,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,39,200.0,0,47.0
+Animawings,OTP,CDG,10,68,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,6,28,200.0,0,49.0
+Ryanair,OTP,VIE,21,40,100.0,0,22.0
+Wizz Air Malta,OTP,FCO,7,59,140.0,0,25.0
+Ryanair,OTP,VIE,21,88,100.0,0,25.0
+Ryanair,OTP,VIE,12,73,105.0,0,19.0
+Tarom,OTP,AMS,8,52,185.0,0,113.0
+Tarom,OTP,AMS,16,78,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,14,50,335.0,1,92.0
+Ryanair,OTP,VIE,9,77,105.0,0,19.0
+Ryanair,OTP,VIE,21,63,105.0,0,19.0
+Ryanair,OTP,VIE,16,56,105.0,0,26.0
+Ryanair,OTP,VIE,16,87,105.0,0,26.0
+Air Serbia,OTP,LHR,16,57,300.0,1,111.0
+Wizz Air Malta,OTP,BCN,6,81,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,39,160.0,0,88.0
+Ryanair,OTP,VIE,21,84,105.0,0,23.0
+Ryanair,OTP,VIE,21,64,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,6,82,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,20,46,140.0,0,24.0
+Ryanair,OTP,VIE,12,63,105.0,0,24.0
+HiSky Europe,OTP,FRA,10,59,160.0,0,77.0
+Wizz Air Malta,OTP,FCO,20,51,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,70,200.0,0,48.0
+Animawings,OTP,CDG,10,60,190.0,0,85.0
+Ryanair,OTP,VIE,21,63,105.0,0,21.0
+HiSky Europe,OTP,FRA,10,64,160.0,0,77.0
+Ryanair,OTP,VIE,12,52,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,73,200.0,0,48.0
+HiSky Europe,OTP,FRA,10,69,160.0,0,88.0
+Ryanair,OTP,VIE,21,63,100.0,0,22.0
+Ryanair,OTP,VIE,12,47,105.0,0,23.0
+HiSky Europe,OTP,FRA,10,43,160.0,0,88.0
+Ryanair,OTP,VIE,12,86,105.0,0,24.0
+Tarom,OTP,AMS,16,62,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,14,32,335.0,1,106.0
+Ryanair,OTP,VIE,12,35,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,43,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,18,38,200.0,0,47.0
+Ryanair,OTP,VIE,9,32,105.0,0,19.0
+Ryanair,OTP,VIE,21,58,100.0,0,22.0
+Ryanair,OTP,VIE,9,29,105.0,0,26.0
+Ryanair,OTP,VIE,9,26,105.0,0,26.0
+Tarom,OTP,AMS,16,30,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,6,80,200.0,0,48.0
+Animawings,OTP,CDG,10,70,190.0,0,85.0
+Ryanair,OTP,VIE,21,47,100.0,0,25.0
+Ryanair,OTP,VIE,12,53,105.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,24,335.0,1,92.0
+Wizz Air Malta,OTP,FCO,7,59,140.0,0,27.0
+Ryanair,OTP,VIE,21,35,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,7,74,140.0,0,26.0
+Ryanair,OTP,VIE,12,30,105.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,85,300.0,1,92.0
+Ryanair,OTP,VIE,21,60,100.0,0,22.0
+Ryanair,OTP,VIE,21,42,100.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,29,200.0,0,48.0
+Lufthansa,OTP,FRA,6,31,155.0,0,80.0
+Wizz Air Malta,OTP,FCO,20,75,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,54,335.0,1,106.0
+Wizz Air Malta,OTP,BCN,12,29,200.0,0,52.0
+HiSky Europe,OTP,CDG,10,38,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,6,88,200.0,0,49.0
+Ryanair,OTP,VIE,16,28,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,6,85,405.0,1,92.0
+HiSky Europe,OTP,FRA,10,33,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,6,63,200.0,0,47.0
+Air Serbia,OTP,LHR,16,64,300.0,1,82.0
+Tarom,OTP,AMS,16,40,185.0,0,113.0
+Ryanair,OTP,VIE,12,62,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,7,72,140.0,0,27.0
+Wizz Air Malta,OTP,FCO,7,79,140.0,0,26.0
+Wizz Air Malta,OTP,BCN,6,84,200.0,0,51.0
+Air Serbia,OTP,LHR,16,88,300.0,1,82.0
+Ryanair,OTP,VIE,12,47,105.0,0,24.0
+Ryanair,OTP,VIE,21,79,105.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,6,29,405.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,32,200.0,0,49.0
+KLM Royal Dutch Airlines,OTP,LHR,14,35,335.0,1,106.0
+Wizz Air Malta,OTP,BCN,12,48,200.0,0,52.0
+KLM Royal Dutch Airlines,OTP,LHR,7,39,340.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,30,140.0,0,27.0
+Wizz Air Malta,OTP,FCO,20,63,140.0,0,16.0
+Wizz Air Malta,OTP,FCO,20,42,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,20,47,140.0,0,16.0
+Ryanair,OTP,VIE,21,53,105.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,87,300.0,1,92.0
+Wizz Air Malta,OTP,FCO,7,24,140.0,0,25.0
+Ryanair,OTP,VIE,12,67,105.0,0,19.0
+HiSky Europe,OTP,FRA,10,38,160.0,0,87.0
+Wizz Air Malta,OTP,FCO,7,53,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,81,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,6,44,405.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,75,140.0,0,16.0
+HiSky Europe,OTP,FRA,10,55,160.0,0,88.0
+Animawings,OTP,CDG,10,79,190.0,0,94.0
+Ryanair,OTP,VIE,9,55,105.0,0,26.0
+Ryanair,OTP,VIE,21,76,105.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,31,200.0,0,48.0
+KLM Royal Dutch Airlines,OTP,LHR,14,44,335.0,1,106.0
+HiSky Europe,OTP,FRA,10,27,160.0,0,87.0
+Animawings,OTP,CDG,10,44,190.0,0,94.0
+Ryanair,OTP,VIE,21,87,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,6,48,200.0,0,53.0
+Wizz Air Malta,OTP,BCN,12,66,200.0,0,52.0
+Ryanair,OTP,VIE,12,76,105.0,0,23.0
+KLM Royal Dutch Airlines,OTP,LHR,14,47,300.0,1,92.0
+Ryanair,OTP,VIE,21,27,105.0,0,21.0
+HiSky Europe,OTP,FRA,10,36,160.0,0,77.0
+Wizz Air Malta,OTP,BCN,18,61,200.0,0,48.0
+KLM Royal Dutch Airlines,OTP,LHR,14,48,335.0,1,106.0
+Wizz Air Malta,OTP,FCO,7,48,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,76,335.0,1,92.0
+Animawings,OTP,CDG,10,72,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,12,36,200.0,0,52.0
+Animawings,OTP,CDG,10,55,190.0,0,94.0
+HiSky Europe,OTP,CDG,10,54,180.0,0,98.0
+Animawings,OTP,CDG,10,32,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,6,44,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,14,43,335.0,1,106.0
+Wizz Air Malta,OTP,AMS,13,31,375.0,1,61.0
+Wizz Air Malta,OTP,BCN,18,67,200.0,0,48.0
+Wizz Air Malta,OTP,BCN,6,71,200.0,0,49.0
+KLM Royal Dutch Airlines,OTP,LHR,6,36,405.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,67,140.0,0,25.0
+Ryanair,OTP,VIE,21,38,105.0,0,21.0
+Ryanair,OTP,VIE,21,40,105.0,0,23.0
+Ryanair,OTP,VIE,21,62,100.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,38,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,72,200.0,0,51.0
+Ryanair,OTP,VIE,12,26,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,6,77,200.0,0,50.0
+Ryanair,OTP,VIE,21,36,105.0,0,21.0
+Ryanair,OTP,VIE,21,30,105.0,0,21.0
+Wizz Air Malta,OTP,FCO,20,61,140.0,0,24.0
+Ryanair,OTP,VIE,9,31,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,6,74,200.0,0,51.0
+Ryanair,OTP,VIE,12,46,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,7,64,140.0,0,27.0
+Wizz Air Malta,OTP,BCN,12,61,200.0,0,52.0
+HiSky Europe,OTP,FRA,10,82,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,6,38,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,45,140.0,0,25.0
+Air Serbia,OTP,LHR,16,67,300.0,1,82.0
+Lufthansa,OTP,FRA,14,73,155.0,0,79.0
+Wizz Air Malta,OTP,FCO,20,88,140.0,0,16.0
+Animawings,OTP,CDG,10,56,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,6,88,200.0,0,48.0
+Ryanair,OTP,VIE,21,56,105.0,0,23.0
+Ryanair,OTP,VIE,9,85,105.0,0,19.0
+Ryanair,OTP,VIE,9,78,105.0,0,26.0
+Ryanair,OTP,VIE,21,46,100.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,33,200.0,0,51.0
+Animawings,OTP,CDG,10,56,190.0,0,85.0
+KLM Royal Dutch Airlines,OTP,LHR,14,49,335.0,1,106.0
+Ryanair,OTP,VIE,21,68,105.0,0,22.0
+Wizz Air Malta,OTP,FCO,20,88,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,7,75,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,55,350.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,84,335.0,1,92.0
+Lufthansa,OTP,FRA,6,46,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,37,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,6,82,200.0,0,50.0
+Ryanair,OTP,VIE,21,30,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,28,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,7,57,140.0,0,25.0
+Tarom,OTP,AMS,8,51,185.0,0,113.0
+Ryanair,OTP,VIE,21,78,105.0,0,22.0
+Wizz Air Malta,OTP,BCN,18,82,200.0,0,50.0
+Ryanair,OTP,VIE,12,84,105.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,62,335.0,1,106.0
+Ryanair,OTP,VIE,21,56,100.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,66,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,7,63,340.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,79,300.0,1,92.0
+Lufthansa,OTP,FRA,6,40,155.0,0,80.0
+Ryanair,OTP,VIE,12,45,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,68,200.0,0,48.0
+Tarom,OTP,AMS,16,29,185.0,0,113.0
+Air Serbia,OTP,LHR,16,73,300.0,1,111.0
+Lufthansa,OTP,FRA,14,41,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,7,26,340.0,1,92.0
+Ryanair,OTP,VIE,21,54,100.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,71,350.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,27,200.0,0,51.0
+Animawings,OTP,CDG,10,26,190.0,0,94.0
+KLM Royal Dutch Airlines,OTP,LHR,14,70,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,55,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,88,160.0,0,87.0
+HiSky Europe,OTP,FRA,10,61,160.0,0,87.0
+KLM Royal Dutch Airlines,OTP,LHR,14,82,335.0,1,92.0
+Ryanair,OTP,VIE,21,67,105.0,0,23.0
+Ryanair,OTP,VIE,16,64,105.0,0,26.0
+Ryanair,OTP,VIE,16,71,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,14,68,300.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,73,140.0,0,25.0
+Air Serbia,OTP,LHR,16,75,300.0,1,111.0
+KLM Royal Dutch Airlines,OTP,LHR,14,80,335.0,1,106.0
+Wizz Air Malta,OTP,FCO,20,80,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,30,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,12,38,200.0,0,52.0
+Wizz Air Malta,OTP,BCN,18,25,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,6,55,200.0,0,49.0
+Lufthansa,OTP,FRA,14,73,155.0,0,80.0
+Ryanair,OTP,VIE,21,79,100.0,0,22.0
+Wizz Air Malta,OTP,AMS,13,86,375.0,1,61.0
+Ryanair,OTP,VIE,21,33,105.0,0,21.0
+Wizz Air Malta,OTP,FCO,20,87,140.0,0,16.0
+Wizz Air Malta,OTP,BCN,6,55,200.0,0,53.0
+Lufthansa,OTP,FRA,6,79,155.0,0,80.0
+Lufthansa,OTP,FRA,14,62,155.0,0,80.0
+HiSky Europe,OTP,CDG,10,55,180.0,0,98.0
+KLM Royal Dutch Airlines,OTP,LHR,14,88,335.0,1,106.0
+Wizz Air Malta,OTP,BCN,18,60,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,54,160.0,0,87.0
+KLM Royal Dutch Airlines,OTP,LHR,7,48,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,77,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,6,83,200.0,0,53.0
+Wizz Air Malta,OTP,BCN,18,79,200.0,0,48.0
+Animawings,OTP,CDG,10,82,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,6,72,200.0,0,51.0
+HiSky Europe,OTP,FRA,10,73,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,7,32,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,39,200.0,0,50.0
+Ryanair,OTP,VIE,12,67,105.0,0,23.0
+Ryanair,OTP,VIE,21,71,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,6,82,200.0,0,49.0
+Ryanair,OTP,VIE,16,25,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,18,51,200.0,0,50.0
+KLM Royal Dutch Airlines,OTP,LHR,6,81,405.0,1,92.0
+Animawings,OTP,CDG,10,39,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,6,40,200.0,0,50.0
+HiSky Europe,OTP,CDG,10,84,180.0,0,98.0
+KLM Royal Dutch Airlines,OTP,LHR,14,67,335.0,1,106.0
+Wizz Air Malta,OTP,BCN,12,78,200.0,0,52.0
+Lufthansa,OTP,FRA,14,55,155.0,0,79.0
+Ryanair,OTP,VIE,21,68,105.0,0,21.0
+KLM Royal Dutch Airlines,OTP,LHR,6,70,405.0,1,92.0
+HiSky Europe,OTP,CDG,10,75,180.0,0,98.0
+KLM Royal Dutch Airlines,OTP,LHR,14,27,300.0,1,92.0
+Lufthansa,OTP,FRA,14,71,155.0,0,80.0
+Ryanair,OTP,VIE,12,68,105.0,0,23.0
+HiSky Europe,OTP,CDG,10,67,180.0,0,98.0
+KLM Royal Dutch Airlines,OTP,LHR,7,51,340.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,38,335.0,1,106.0
+HiSky Europe,OTP,FRA,10,40,160.0,0,87.0
+Lufthansa,OTP,FRA,14,59,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,52,200.0,0,53.0
+KLM Royal Dutch Airlines,OTP,LHR,6,62,405.0,1,92.0
+Ryanair,OTP,VIE,21,73,100.0,0,25.0
+Ryanair,OTP,VIE,16,68,105.0,0,26.0
+Ryanair,OTP,VIE,9,56,105.0,0,26.0
+Wizz Air Malta,OTP,AMS,13,75,375.0,1,61.0
+Tarom,OTP,AMS,8,77,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,7,38,140.0,0,25.0
+Ryanair,OTP,VIE,12,54,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,7,84,140.0,0,25.0
+Ryanair,OTP,VIE,21,42,105.0,0,22.0
+Wizz Air Malta,OTP,FCO,20,53,140.0,0,27.0
+Wizz Air Malta,OTP,FCO,7,59,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,12,42,200.0,0,52.0
+Wizz Air Malta,OTP,FCO,7,33,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,20,83,140.0,0,27.0
+Air Serbia,OTP,LHR,16,83,300.0,1,111.0
+Tarom,OTP,AMS,8,88,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,14,65,300.0,1,106.0
+Wizz Air Malta,OTP,BCN,6,27,200.0,0,48.0
+Ryanair,OTP,VIE,21,38,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,20,71,140.0,0,24.0
+Ryanair,OTP,VIE,9,50,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,7,79,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,12,24,200.0,0,52.0
+Wizz Air Malta,OTP,BCN,6,67,200.0,0,53.0
+Wizz Air Malta,OTP,FCO,7,63,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,58,350.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,57,200.0,0,50.0
+Ryanair,OTP,VIE,16,35,105.0,0,26.0
+Ryanair,OTP,VIE,21,52,105.0,0,22.0
+Wizz Air Malta,OTP,BCN,18,44,200.0,0,50.0
+Animawings,OTP,CDG,10,48,190.0,0,85.0
+KLM Royal Dutch Airlines,OTP,LHR,14,59,350.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,45,140.0,0,27.0
+Lufthansa,OTP,FRA,6,24,155.0,0,80.0
+Air Serbia,OTP,LHR,16,66,300.0,1,82.0
+HiSky Europe,OTP,FRA,10,75,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,18,52,200.0,0,48.0
+Ryanair,OTP,VIE,21,24,100.0,0,22.0
+Ryanair,OTP,VIE,21,62,105.0,0,19.0
+Tarom,OTP,AMS,8,65,185.0,0,113.0
+Ryanair,OTP,VIE,21,71,100.0,0,25.0
+Ryanair,OTP,VIE,21,80,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,7,71,140.0,0,27.0
+KLM Royal Dutch Airlines,OTP,LHR,14,66,300.0,1,92.0
+HiSky Europe,OTP,FRA,10,65,160.0,0,77.0
+Wizz Air Malta,OTP,BCN,6,36,200.0,0,49.0
+Wizz Air Malta,OTP,FCO,7,47,140.0,0,24.0
+Wizz Air Malta,OTP,AMS,13,24,375.0,1,61.0
+Air Serbia,OTP,LHR,16,33,300.0,1,82.0
+Wizz Air Malta,OTP,AMS,13,37,375.0,1,61.0
+Wizz Air Malta,OTP,FCO,7,71,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,7,34,340.0,1,92.0
+Ryanair,OTP,VIE,21,49,105.0,0,23.0
+Ryanair,OTP,VIE,9,50,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,6,79,200.0,0,47.0
+Lufthansa,OTP,FRA,14,75,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,6,52,200.0,0,50.0
+Ryanair,OTP,VIE,21,50,100.0,0,22.0
+Ryanair,OTP,VIE,21,28,105.0,0,21.0
+KLM Royal Dutch Airlines,OTP,LHR,14,65,350.0,1,92.0
+Wizz Air Malta,OTP,FCO,7,35,140.0,0,24.0
+Tarom,OTP,AMS,16,34,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,12,72,200.0,0,52.0
+Wizz Air Malta,OTP,FCO,20,49,140.0,0,27.0
+Wizz Air Malta,OTP,BCN,6,47,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,6,63,200.0,0,49.0
+Lufthansa,OTP,FRA,14,38,155.0,0,80.0
+Air Serbia,OTP,LHR,16,39,300.0,1,82.0
+Ryanair,OTP,VIE,21,85,105.0,0,21.0
+KLM Royal Dutch Airlines,OTP,LHR,14,60,335.0,1,106.0
+Animawings,OTP,CDG,10,25,190.0,0,94.0
+Ryanair,OTP,VIE,12,36,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,20,48,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,20,72,140.0,0,16.0
+KLM Royal Dutch Airlines,OTP,LHR,14,36,350.0,1,92.0
+Ryanair,OTP,VIE,21,50,105.0,0,21.0
+Wizz Air Malta,OTP,AMS,13,52,375.0,1,61.0
+Ryanair,OTP,VIE,16,80,105.0,0,26.0
+Wizz Air Malta,OTP,FCO,7,81,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,18,70,200.0,0,51.0
+Ryanair,OTP,VIE,12,72,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,20,43,140.0,0,16.0
+Tarom,OTP,AMS,16,84,185.0,0,113.0
+Lufthansa,OTP,FRA,14,49,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,42,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,18,79,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,7,50,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,18,76,200.0,0,48.0
+Wizz Air Malta,OTP,BCN,6,86,200.0,0,49.0
+Wizz Air Malta,OTP,AMS,13,70,375.0,1,61.0
+KLM Royal Dutch Airlines,OTP,LHR,6,76,405.0,1,92.0
+Ryanair,OTP,VIE,21,83,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,6,47,200.0,0,50.0
+Ryanair,OTP,VIE,9,75,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,6,38,200.0,0,48.0
+Wizz Air Malta,OTP,BCN,18,81,200.0,0,51.0
+Ryanair,OTP,VIE,9,44,105.0,0,26.0
+HiSky Europe,OTP,CDG,10,39,180.0,0,98.0
+Ryanair,OTP,VIE,21,55,105.0,0,23.0
+KLM Royal Dutch Airlines,OTP,LHR,14,64,300.0,1,106.0
+Wizz Air Malta,OTP,BCN,18,75,200.0,0,51.0
+Ryanair,OTP,VIE,9,84,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,7,67,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,34,200.0,0,50.0
+Lufthansa,OTP,FRA,14,25,155.0,0,79.0
+Ryanair,OTP,VIE,21,81,100.0,0,25.0
+Ryanair,OTP,VIE,12,50,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,78,200.0,0,49.0
+HiSky Europe,OTP,FRA,10,42,160.0,0,87.0
+Air Serbia,OTP,LHR,16,84,300.0,1,82.0
+Ryanair,OTP,VIE,9,39,105.0,0,19.0
+HiSky Europe,OTP,FRA,10,30,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,6,65,200.0,0,49.0
+Wizz Air Malta,OTP,FCO,20,43,140.0,0,25.0
+Ryanair,OTP,VIE,9,40,105.0,0,19.0
+Tarom,OTP,AMS,16,42,185.0,0,113.0
+Lufthansa,OTP,FRA,14,27,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,27,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,18,55,200.0,0,48.0
+HiSky Europe,OTP,CDG,10,33,180.0,0,98.0
+Ryanair,OTP,VIE,16,50,105.0,0,26.0
+Ryanair,OTP,VIE,21,46,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,6,50,200.0,0,51.0
+Lufthansa,OTP,FRA,6,30,155.0,0,80.0
+Ryanair,OTP,VIE,16,60,105.0,0,26.0
+Ryanair,OTP,VIE,21,81,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,6,65,200.0,0,53.0
+Wizz Air Malta,OTP,BCN,18,62,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,18,30,200.0,0,47.0
+Air Serbia,OTP,LHR,16,41,300.0,1,82.0
+Lufthansa,OTP,FRA,14,48,155.0,0,80.0
+Tarom,OTP,AMS,8,74,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,7,67,140.0,0,27.0
+Ryanair,OTP,VIE,9,74,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,12,54,200.0,0,52.0
+Ryanair,OTP,VIE,21,39,105.0,0,22.0
+Wizz Air Malta,OTP,FCO,7,40,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,6,25,405.0,1,92.0
+HiSky Europe,OTP,FRA,10,63,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,7,80,140.0,0,27.0
+Ryanair,OTP,VIE,21,85,100.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,6,59,405.0,1,92.0
+Ryanair,OTP,VIE,9,84,105.0,0,26.0
+Wizz Air Malta,OTP,FCO,20,44,140.0,0,16.0
+KLM Royal Dutch Airlines,OTP,LHR,14,71,335.0,1,106.0
+HiSky Europe,OTP,FRA,10,52,160.0,0,87.0
+Lufthansa,OTP,FRA,6,39,155.0,0,80.0
+Ryanair,OTP,VIE,12,81,105.0,0,19.0
+Ryanair,OTP,VIE,21,29,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,6,81,200.0,0,50.0
+HiSky Europe,OTP,FRA,10,32,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,14,67,335.0,1,92.0
+HiSky Europe,OTP,FRA,10,38,160.0,0,88.0
+Wizz Air Malta,OTP,BCN,18,43,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,44,140.0,0,24.0
+Lufthansa,OTP,FRA,6,84,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,6,74,405.0,1,92.0
+Lufthansa,OTP,FRA,14,30,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,6,52,200.0,0,51.0
+Tarom,OTP,AMS,16,59,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,7,46,140.0,0,25.0
+Ryanair,OTP,VIE,9,30,105.0,0,26.0
+Air Serbia,OTP,LHR,16,27,300.0,1,82.0
+KLM Royal Dutch Airlines,OTP,LHR,14,75,335.0,1,106.0
+HiSky Europe,OTP,FRA,10,46,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,20,41,140.0,0,27.0
+Ryanair,OTP,VIE,9,43,105.0,0,19.0
+Ryanair,OTP,VIE,21,77,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,6,37,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,6,44,200.0,0,53.0
+Animawings,OTP,CDG,10,75,190.0,0,85.0
+Ryanair,OTP,VIE,21,78,105.0,0,23.0
+Wizz Air Malta,OTP,AMS,13,82,375.0,1,61.0
+Ryanair,OTP,VIE,21,62,105.0,0,21.0
+Animawings,OTP,CDG,10,85,190.0,0,94.0
+HiSky Europe,OTP,FRA,10,48,160.0,0,88.0
+Animawings,OTP,CDG,10,65,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,18,24,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,14,85,335.0,1,92.0
+Lufthansa,OTP,FRA,14,88,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,18,69,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,7,74,140.0,0,25.0
+Ryanair,OTP,VIE,12,41,105.0,0,23.0
+HiSky Europe,OTP,FRA,10,82,160.0,0,77.0
+HiSky Europe,OTP,CDG,10,43,180.0,0,98.0
+Lufthansa,OTP,FRA,14,78,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,18,88,200.0,0,48.0
+Ryanair,OTP,VIE,21,31,105.0,0,22.0
+HiSky Europe,OTP,CDG,10,74,180.0,0,98.0
+HiSky Europe,OTP,FRA,10,78,160.0,0,87.0
+KLM Royal Dutch Airlines,OTP,LHR,14,72,350.0,1,92.0
+Lufthansa,OTP,FRA,14,69,155.0,0,80.0
+Animawings,OTP,CDG,10,43,190.0,0,85.0
+Wizz Air Malta,OTP,FCO,20,80,140.0,0,16.0
+Wizz Air Malta,OTP,BCN,6,87,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,6,51,200.0,0,49.0
+KLM Royal Dutch Airlines,OTP,LHR,14,64,300.0,1,92.0
+Air Serbia,OTP,LHR,16,43,300.0,1,111.0
+Wizz Air Malta,OTP,BCN,6,35,200.0,0,53.0
+Wizz Air Malta,OTP,FCO,20,62,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,88,200.0,0,47.0
+Ryanair,OTP,VIE,21,57,100.0,0,25.0
+Wizz Air Malta,OTP,BCN,18,78,200.0,0,50.0
+Air Serbia,OTP,LHR,16,61,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,6,53,200.0,0,50.0
+KLM Royal Dutch Airlines,OTP,LHR,14,84,350.0,1,92.0
+Ryanair,OTP,VIE,12,44,105.0,0,19.0
+Ryanair,OTP,VIE,12,63,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,20,73,140.0,0,16.0
+Wizz Air Malta,OTP,AMS,13,26,375.0,1,61.0
+Ryanair,OTP,VIE,9,69,105.0,0,19.0
+HiSky Europe,OTP,FRA,10,51,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,7,31,140.0,0,24.0
+Ryanair,OTP,VIE,12,40,105.0,0,23.0
+Ryanair,OTP,VIE,21,57,105.0,0,21.0
+Animawings,OTP,CDG,10,44,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,18,31,200.0,0,48.0
+KLM Royal Dutch Airlines,OTP,LHR,14,31,335.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,69,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,79,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,18,38,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,6,69,405.0,1,92.0
+HiSky Europe,OTP,CDG,10,24,180.0,0,98.0
+HiSky Europe,OTP,FRA,10,76,160.0,0,88.0
+Ryanair,OTP,VIE,21,67,105.0,0,21.0
+Ryanair,OTP,VIE,21,61,105.0,0,23.0
+Animawings,OTP,CDG,10,40,190.0,0,94.0
+KLM Royal Dutch Airlines,OTP,LHR,6,84,405.0,1,92.0
+Ryanair,OTP,VIE,12,25,105.0,0,24.0
+HiSky Europe,OTP,FRA,10,26,160.0,0,77.0
+KLM Royal Dutch Airlines,OTP,LHR,14,73,300.0,1,92.0
+Ryanair,OTP,VIE,16,86,105.0,0,26.0
+Wizz Air Malta,OTP,FCO,7,63,140.0,0,25.0
+Animawings,OTP,CDG,10,82,190.0,0,85.0
+Ryanair,OTP,VIE,9,63,105.0,0,26.0
+Air Serbia,OTP,LHR,16,71,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,12,62,200.0,0,52.0
+HiSky Europe,OTP,CDG,10,58,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,12,34,200.0,0,52.0
+Wizz Air Malta,OTP,BCN,6,62,200.0,0,47.0
+Wizz Air Malta,OTP,FCO,20,50,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,43,200.0,0,50.0
+Air Serbia,OTP,LHR,16,47,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,6,32,200.0,0,53.0
+Ryanair,OTP,VIE,21,42,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,12,88,200.0,0,52.0
+HiSky Europe,OTP,FRA,10,33,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,14,66,300.0,1,106.0
+Wizz Air Malta,OTP,BCN,18,83,200.0,0,51.0
+Ryanair,OTP,VIE,12,58,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,72,200.0,0,49.0
+Wizz Air Malta,OTP,FCO,7,54,140.0,0,25.0
+HiSky Europe,OTP,FRA,10,48,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,6,58,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,7,84,140.0,0,26.0
+Ryanair,OTP,VIE,12,64,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,6,68,200.0,0,53.0
+Ryanair,OTP,VIE,21,40,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,7,65,140.0,0,27.0
+Wizz Air Malta,OTP,FCO,20,86,140.0,0,16.0
+Lufthansa,OTP,FRA,6,49,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,7,72,340.0,1,92.0
+Ryanair,OTP,VIE,12,81,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,69,200.0,0,47.0
+Ryanair,OTP,VIE,21,80,100.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,45,200.0,0,50.0
+Air Serbia,OTP,LHR,16,63,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,6,36,200.0,0,53.0
+KLM Royal Dutch Airlines,OTP,LHR,14,51,300.0,1,106.0
+Wizz Air Malta,OTP,BCN,6,86,200.0,0,53.0
+Wizz Air Malta,OTP,FCO,20,68,140.0,0,16.0
+Lufthansa,OTP,FRA,6,77,155.0,0,80.0
+Tarom,OTP,AMS,16,60,185.0,0,113.0
+Ryanair,OTP,VIE,9,87,105.0,0,26.0
+Lufthansa,OTP,FRA,6,26,155.0,0,80.0
+Wizz Air Malta,OTP,AMS,13,25,375.0,1,61.0
+Wizz Air Malta,OTP,BCN,18,66,200.0,0,51.0
+Ryanair,OTP,VIE,12,38,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,51,335.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,62,140.0,0,16.0
+Wizz Air Malta,OTP,FCO,20,74,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,20,78,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,7,52,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,7,62,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,51,335.0,1,106.0
+Wizz Air Malta,OTP,FCO,20,86,140.0,0,27.0
+Wizz Air Malta,OTP,BCN,6,71,200.0,0,53.0
+Lufthansa,OTP,FRA,14,31,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,18,63,200.0,0,51.0
+Ryanair,OTP,VIE,9,30,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,7,73,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,7,74,140.0,0,27.0
+KLM Royal Dutch Airlines,OTP,LHR,14,57,350.0,1,92.0
+Ryanair,OTP,VIE,9,46,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,18,86,200.0,0,51.0
+HiSky Europe,OTP,CDG,10,64,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,12,73,200.0,0,52.0
+Air Serbia,OTP,LHR,16,79,300.0,1,82.0
+HiSky Europe,OTP,FRA,10,51,160.0,0,77.0
+Wizz Air Malta,OTP,BCN,12,30,200.0,0,52.0
+Wizz Air Malta,OTP,BCN,18,57,200.0,0,48.0
+Wizz Air Malta,OTP,BCN,18,77,200.0,0,47.0
+Lufthansa,OTP,FRA,14,66,155.0,0,79.0
+Ryanair,OTP,VIE,16,69,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,12,58,200.0,0,52.0
+Animawings,OTP,CDG,10,64,190.0,0,94.0
+Wizz Air Malta,OTP,FCO,7,29,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,75,200.0,0,49.0
+HiSky Europe,OTP,CDG,10,66,180.0,0,98.0
+KLM Royal Dutch Airlines,OTP,LHR,7,38,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,42,200.0,0,50.0
+Ryanair,OTP,VIE,21,65,100.0,0,25.0
+Ryanair,OTP,VIE,21,26,105.0,0,21.0
+Lufthansa,OTP,FRA,14,63,155.0,0,80.0
+Ryanair,OTP,VIE,21,61,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,6,56,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,6,30,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,37,140.0,0,27.0
+Wizz Air Malta,OTP,FCO,7,68,140.0,0,24.0
+Ryanair,OTP,VIE,12,74,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,18,35,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,20,69,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,20,26,140.0,0,25.0
+Ryanair,OTP,VIE,21,34,100.0,0,22.0
+Wizz Air Malta,OTP,AMS,13,28,375.0,1,61.0
+Ryanair,OTP,VIE,21,38,105.0,0,19.0
+Air Serbia,OTP,LHR,16,77,300.0,1,82.0
+KLM Royal Dutch Airlines,OTP,LHR,14,80,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,12,53,200.0,0,52.0
+Ryanair,OTP,VIE,12,74,105.0,0,24.0
+Wizz Air Malta,OTP,FCO,7,76,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,54,335.0,1,92.0
+Ryanair,OTP,VIE,21,82,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,20,41,140.0,0,25.0
+Ryanair,OTP,VIE,21,27,100.0,0,25.0
+Animawings,OTP,CDG,10,54,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,6,43,200.0,0,47.0
+Ryanair,OTP,VIE,21,65,100.0,0,22.0
+Tarom,OTP,AMS,8,57,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,18,26,200.0,0,48.0
+Animawings,OTP,CDG,10,37,190.0,0,85.0
+HiSky Europe,OTP,FRA,10,62,160.0,0,77.0
+KLM Royal Dutch Airlines,OTP,LHR,7,24,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,25,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,60,140.0,0,16.0
+Wizz Air Malta,OTP,BCN,12,33,200.0,0,52.0
+KLM Royal Dutch Airlines,OTP,LHR,6,24,405.0,1,92.0
+HiSky Europe,OTP,FRA,10,49,160.0,0,77.0
+Ryanair,OTP,VIE,21,42,105.0,0,21.0
+Lufthansa,OTP,FRA,14,28,155.0,0,79.0
+Ryanair,OTP,VIE,21,45,105.0,0,21.0
+Ryanair,OTP,VIE,21,28,100.0,0,25.0
+Ryanair,OTP,VIE,21,73,105.0,0,23.0
+Ryanair,OTP,VIE,21,47,100.0,0,22.0
+Ryanair,OTP,VIE,21,78,100.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,55,200.0,0,50.0
+KLM Royal Dutch Airlines,OTP,LHR,6,57,405.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,84,200.0,0,51.0
+Ryanair,OTP,VIE,12,74,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,79,200.0,0,51.0
+Animawings,OTP,CDG,10,65,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,18,75,200.0,0,47.0
+Ryanair,OTP,VIE,21,64,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,6,60,200.0,0,47.0
+Ryanair,OTP,VIE,21,50,105.0,0,22.0
+Ryanair,OTP,VIE,9,55,105.0,0,19.0
+Lufthansa,OTP,FRA,14,36,155.0,0,80.0
+Tarom,OTP,AMS,16,74,185.0,0,113.0
+Ryanair,OTP,VIE,9,54,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,7,26,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,71,300.0,1,106.0
+HiSky Europe,OTP,FRA,10,83,160.0,0,77.0
+KLM Royal Dutch Airlines,OTP,LHR,14,48,300.0,1,92.0
+Lufthansa,OTP,FRA,14,77,155.0,0,80.0
+HiSky Europe,OTP,FRA,10,28,160.0,0,88.0
+Wizz Air Malta,OTP,BCN,6,25,200.0,0,47.0
+Tarom,OTP,AMS,16,88,185.0,0,113.0
+Ryanair,OTP,VIE,12,66,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,69,200.0,0,48.0
+Ryanair,OTP,VIE,21,34,100.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,26,200.0,0,53.0
+Animawings,OTP,CDG,10,68,190.0,0,85.0
+Ryanair,OTP,VIE,21,49,105.0,0,19.0
+HiSky Europe,OTP,CDG,10,78,180.0,0,98.0
+Ryanair,OTP,VIE,12,64,105.0,0,23.0
+HiSky Europe,OTP,FRA,10,77,160.0,0,87.0
+Wizz Air Malta,OTP,FCO,7,81,140.0,0,27.0
+Ryanair,OTP,VIE,16,66,105.0,0,26.0
+Ryanair,OTP,VIE,12,33,105.0,0,23.0
+KLM Royal Dutch Airlines,OTP,LHR,14,58,335.0,1,106.0
+Wizz Air Malta,OTP,FCO,7,82,140.0,0,24.0
+Tarom,OTP,AMS,8,73,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,18,76,200.0,0,50.0
+HiSky Europe,OTP,FRA,10,60,160.0,0,77.0
+Ryanair,OTP,VIE,9,42,105.0,0,19.0
+Ryanair,OTP,VIE,16,57,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,14,45,335.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,45,335.0,1,106.0
+KLM Royal Dutch Airlines,OTP,LHR,14,42,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,51,200.0,0,51.0
+HiSky Europe,OTP,FRA,10,72,160.0,0,77.0
+Wizz Air Malta,OTP,BCN,6,31,200.0,0,49.0
+Air Serbia,OTP,LHR,16,68,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,6,24,200.0,0,53.0
+Lufthansa,OTP,FRA,14,33,155.0,0,79.0
+HiSky Europe,OTP,FRA,10,34,160.0,0,87.0
+Ryanair,OTP,VIE,9,38,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,25,300.0,1,106.0
+KLM Royal Dutch Airlines,OTP,LHR,14,37,300.0,1,92.0
+Animawings,OTP,CDG,10,30,190.0,0,85.0
+Ryanair,OTP,VIE,21,80,105.0,0,21.0
+Wizz Air Malta,OTP,FCO,7,50,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,84,200.0,0,53.0
+HiSky Europe,OTP,FRA,10,36,160.0,0,88.0
+Wizz Air Malta,OTP,BCN,6,66,200.0,0,53.0
+Wizz Air Malta,OTP,FCO,20,50,140.0,0,27.0
+Wizz Air Malta,OTP,BCN,12,45,200.0,0,52.0
+Ryanair,OTP,VIE,21,30,105.0,0,22.0
+Ryanair,OTP,VIE,9,24,105.0,0,26.0
+Animawings,OTP,CDG,10,26,190.0,0,85.0
+Air Serbia,OTP,LHR,16,46,300.0,1,111.0
+Wizz Air Malta,OTP,BCN,6,71,200.0,0,47.0
+Ryanair,OTP,VIE,21,70,100.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,47,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,14,76,350.0,1,92.0
+Wizz Air Malta,OTP,AMS,13,71,375.0,1,61.0
+Ryanair,OTP,VIE,12,61,105.0,0,24.0
+Animawings,OTP,CDG,10,60,190.0,0,94.0
+Tarom,OTP,AMS,16,46,185.0,0,113.0
+HiSky Europe,OTP,FRA,10,64,160.0,0,88.0
+Lufthansa,OTP,FRA,6,34,155.0,0,80.0
+Wizz Air Malta,OTP,FCO,20,71,140.0,0,16.0
+Wizz Air Malta,OTP,BCN,6,53,200.0,0,49.0
+Wizz Air Malta,OTP,FCO,7,88,140.0,0,26.0
+Wizz Air Malta,OTP,FCO,7,36,140.0,0,25.0
+Lufthansa,OTP,FRA,14,54,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,75,200.0,0,47.0
+Wizz Air Malta,OTP,FCO,20,25,140.0,0,16.0
+Ryanair,OTP,VIE,21,83,105.0,0,19.0
+Lufthansa,OTP,FRA,14,37,155.0,0,80.0
+Ryanair,OTP,VIE,12,25,105.0,0,23.0
+Tarom,OTP,AMS,8,37,185.0,0,113.0
+Ryanair,OTP,VIE,9,62,105.0,0,26.0
+HiSky Europe,OTP,FRA,10,29,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,18,59,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,31,140.0,0,27.0
+Wizz Air Malta,OTP,BCN,18,42,200.0,0,48.0
+KLM Royal Dutch Airlines,OTP,LHR,14,64,335.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,65,140.0,0,24.0
+Wizz Air Malta,OTP,AMS,13,74,375.0,1,61.0
+Wizz Air Malta,OTP,BCN,18,39,200.0,0,51.0
+Lufthansa,OTP,FRA,14,68,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,14,81,335.0,1,106.0
+Ryanair,OTP,VIE,21,24,105.0,0,22.0
+Air Serbia,OTP,LHR,16,69,300.0,1,82.0
+Animawings,OTP,CDG,10,28,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,6,54,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,18,67,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,18,25,200.0,0,48.0
+HiSky Europe,OTP,FRA,10,62,160.0,0,88.0
+Ryanair,OTP,VIE,21,75,100.0,0,25.0
+HiSky Europe,OTP,CDG,10,70,180.0,0,98.0
+Ryanair,OTP,VIE,9,26,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,7,40,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,69,335.0,1,106.0
+KLM Royal Dutch Airlines,OTP,LHR,7,68,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,39,200.0,0,50.0
+KLM Royal Dutch Airlines,OTP,LHR,14,35,335.0,1,92.0
+Ryanair,OTP,VIE,12,44,105.0,0,23.0
+KLM Royal Dutch Airlines,OTP,LHR,14,74,350.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,27,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,7,29,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,51,200.0,0,48.0
+Ryanair,OTP,VIE,21,65,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,6,33,405.0,1,92.0
+Ryanair,OTP,VIE,9,51,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,6,68,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,6,51,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,14,87,350.0,1,92.0
+Wizz Air Malta,OTP,BCN,12,68,200.0,0,52.0
+Ryanair,OTP,VIE,21,32,105.0,0,22.0
+Ryanair,OTP,VIE,21,67,100.0,0,25.0
+Ryanair,OTP,VIE,12,35,105.0,0,19.0
+Ryanair,OTP,VIE,9,83,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,88,335.0,1,92.0
+Animawings,OTP,CDG,10,62,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,6,39,200.0,0,53.0
+Ryanair,OTP,VIE,12,31,105.0,0,24.0
+Ryanair,OTP,VIE,9,28,105.0,0,19.0
+Ryanair,OTP,VIE,12,80,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,7,65,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,29,200.0,0,50.0
+HiSky Europe,OTP,FRA,10,39,160.0,0,87.0
+Ryanair,OTP,VIE,21,68,100.0,0,22.0
+Ryanair,OTP,VIE,12,32,105.0,0,24.0
+HiSky Europe,OTP,FRA,10,37,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,14,29,350.0,1,92.0
+Tarom,OTP,AMS,16,69,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,18,56,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,6,68,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,14,67,350.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,81,300.0,1,92.0
+Ryanair,OTP,VIE,9,79,105.0,0,26.0
+Wizz Air Malta,OTP,AMS,13,83,375.0,1,61.0
+Air Serbia,OTP,LHR,16,33,300.0,1,111.0
+Wizz Air Malta,OTP,FCO,20,54,140.0,0,24.0
+Tarom,OTP,AMS,16,38,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,7,76,140.0,0,26.0
+Ryanair,OTP,VIE,9,80,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,18,66,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,7,63,140.0,0,27.0
+Air Serbia,OTP,LHR,16,48,300.0,1,82.0
+Lufthansa,OTP,FRA,6,25,155.0,0,80.0
+Ryanair,OTP,VIE,21,76,105.0,0,23.0
+KLM Royal Dutch Airlines,OTP,LHR,14,54,350.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,6,63,405.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,58,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,18,65,200.0,0,48.0
+Lufthansa,OTP,FRA,14,33,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,34,200.0,0,53.0
+Wizz Air Malta,OTP,FCO,20,32,140.0,0,24.0
+Ryanair,OTP,VIE,21,31,100.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,82,335.0,1,106.0
+Wizz Air Malta,OTP,AMS,13,68,375.0,1,61.0
+Lufthansa,OTP,FRA,6,57,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,14,86,300.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,38,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,49,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,25,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,41,200.0,0,49.0
+Ryanair,OTP,VIE,21,83,105.0,0,21.0
+KLM Royal Dutch Airlines,OTP,LHR,14,78,335.0,1,92.0
+Ryanair,OTP,VIE,9,49,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,6,28,200.0,0,53.0
+Wizz Air Malta,OTP,BCN,6,69,200.0,0,49.0
+Tarom,OTP,AMS,8,31,185.0,0,113.0
+Lufthansa,OTP,FRA,14,61,155.0,0,80.0
+Wizz Air Malta,OTP,FCO,7,79,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,7,86,140.0,0,24.0
+Wizz Air Malta,OTP,AMS,13,80,375.0,1,61.0
+Wizz Air Malta,OTP,BCN,18,82,200.0,0,48.0
+Animawings,OTP,CDG,10,24,190.0,0,94.0
+Wizz Air Malta,OTP,FCO,20,64,140.0,0,16.0
+Ryanair,OTP,VIE,16,61,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,18,38,200.0,0,50.0
+HiSky Europe,OTP,CDG,10,29,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,6,57,200.0,0,47.0
+Ryanair,OTP,VIE,21,31,100.0,0,25.0
+Tarom,OTP,AMS,8,56,185.0,0,113.0
+Ryanair,OTP,VIE,12,42,105.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,66,335.0,1,106.0
+Ryanair,OTP,VIE,21,85,105.0,0,22.0
+Animawings,OTP,CDG,10,49,190.0,0,85.0
+Wizz Air Malta,OTP,FCO,20,64,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,39,350.0,1,92.0
+Ryanair,OTP,VIE,21,24,105.0,0,21.0
+Ryanair,OTP,VIE,21,41,105.0,0,19.0
+Air Serbia,OTP,LHR,16,35,300.0,1,82.0
+Ryanair,OTP,VIE,21,78,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,20,52,140.0,0,16.0
+Wizz Air Malta,OTP,BCN,12,47,200.0,0,52.0
+Air Serbia,OTP,LHR,16,45,300.0,1,111.0
+Tarom,OTP,AMS,16,31,185.0,0,113.0
+Tarom,OTP,AMS,16,37,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,20,31,140.0,0,25.0
+Ryanair,OTP,VIE,21,43,105.0,0,21.0
+Ryanair,OTP,VIE,21,51,105.0,0,22.0
+Wizz Air Malta,OTP,FCO,20,45,140.0,0,16.0
+Tarom,OTP,AMS,8,33,185.0,0,113.0
+Ryanair,OTP,VIE,12,52,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,81,350.0,1,92.0
+Ryanair,OTP,VIE,21,55,100.0,0,25.0
+Ryanair,OTP,VIE,21,49,100.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,67,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,7,56,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,80,200.0,0,48.0
+HiSky Europe,OTP,FRA,10,49,160.0,0,87.0
+KLM Royal Dutch Airlines,OTP,LHR,7,59,340.0,1,92.0
+Ryanair,OTP,VIE,12,49,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,6,84,200.0,0,49.0
+Tarom,OTP,AMS,8,25,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,14,48,350.0,1,92.0
+HiSky Europe,OTP,FRA,10,40,160.0,0,77.0
+Wizz Air Malta,OTP,FCO,7,62,140.0,0,24.0
+Ryanair,OTP,VIE,9,69,105.0,0,26.0
+Wizz Air Malta,OTP,FCO,7,81,140.0,0,24.0
+Tarom,OTP,AMS,16,67,185.0,0,113.0
+HiSky Europe,OTP,FRA,10,26,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,6,47,200.0,0,49.0
+KLM Royal Dutch Airlines,OTP,LHR,6,43,405.0,1,92.0
+Air Serbia,OTP,LHR,16,43,300.0,1,82.0
+Ryanair,OTP,VIE,21,40,105.0,0,21.0
+Wizz Air Malta,OTP,AMS,13,55,375.0,1,61.0
+Ryanair,OTP,VIE,9,48,105.0,0,26.0
+Wizz Air Malta,OTP,FCO,20,34,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,20,88,140.0,0,24.0
+HiSky Europe,OTP,FRA,10,73,160.0,0,77.0
+Wizz Air Malta,OTP,FCO,7,65,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,74,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,12,64,200.0,0,52.0
+Wizz Air Malta,OTP,BCN,18,52,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,7,42,140.0,0,25.0
+Ryanair,OTP,VIE,12,40,105.0,0,24.0
+Wizz Air Malta,OTP,FCO,7,87,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,20,76,140.0,0,24.0
+HiSky Europe,OTP,FRA,10,58,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,6,80,405.0,1,92.0
+Ryanair,OTP,VIE,12,79,105.0,0,19.0
+Ryanair,OTP,VIE,9,78,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,7,37,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,27,200.0,0,51.0
+Ryanair,OTP,VIE,12,24,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,7,86,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,38,200.0,0,53.0
+Ryanair,OTP,VIE,21,25,100.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,88,300.0,1,92.0
+Ryanair,OTP,VIE,9,48,105.0,0,19.0
+Ryanair,OTP,VIE,9,77,105.0,0,26.0
+Wizz Air Malta,OTP,FCO,7,80,140.0,0,26.0
+HiSky Europe,OTP,FRA,10,61,160.0,0,88.0
+HiSky Europe,OTP,FRA,10,47,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,7,51,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,28,200.0,0,48.0
+Wizz Air Malta,OTP,BCN,6,34,200.0,0,48.0
+Lufthansa,OTP,FRA,14,58,155.0,0,80.0
+Animawings,OTP,CDG,10,34,190.0,0,94.0
+KLM Royal Dutch Airlines,OTP,LHR,6,78,405.0,1,92.0
+Wizz Air Malta,OTP,FCO,7,62,140.0,0,27.0
+Tarom,OTP,AMS,16,52,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,7,55,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,73,200.0,0,50.0
+HiSky Europe,OTP,CDG,10,83,180.0,0,98.0
+Ryanair,OTP,VIE,9,66,105.0,0,26.0
+Ryanair,OTP,VIE,12,55,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,49,300.0,1,92.0
+Animawings,OTP,CDG,10,53,190.0,0,85.0
+Ryanair,OTP,VIE,12,69,105.0,0,24.0
+Ryanair,OTP,VIE,21,78,100.0,0,25.0
+Tarom,OTP,AMS,16,58,185.0,0,113.0
+Tarom,OTP,AMS,8,48,185.0,0,113.0
+Ryanair,OTP,VIE,21,55,105.0,0,19.0
+Wizz Air Malta,OTP,AMS,13,76,375.0,1,61.0
+Wizz Air Malta,OTP,BCN,12,43,200.0,0,52.0
+Wizz Air Malta,OTP,FCO,7,39,140.0,0,25.0
+Ryanair,OTP,VIE,12,28,105.0,0,19.0
+Ryanair,OTP,VIE,21,38,100.0,0,25.0
+Ryanair,OTP,VIE,21,88,105.0,0,21.0
+Ryanair,OTP,VIE,21,47,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,80,350.0,1,92.0
+Lufthansa,OTP,FRA,14,74,155.0,0,79.0
+Ryanair,OTP,VIE,21,48,105.0,0,22.0
+Ryanair,OTP,VIE,21,45,105.0,0,22.0
+Lufthansa,OTP,FRA,14,68,155.0,0,79.0
+Ryanair,OTP,VIE,9,45,105.0,0,19.0
+Ryanair,OTP,VIE,16,47,105.0,0,26.0
+Ryanair,OTP,VIE,12,54,105.0,0,19.0
+Air Serbia,OTP,LHR,16,78,300.0,1,82.0
+KLM Royal Dutch Airlines,OTP,LHR,14,42,350.0,1,92.0
+Ryanair,OTP,VIE,12,26,105.0,0,24.0
+Ryanair,OTP,VIE,12,87,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,6,41,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,38,160.0,0,77.0
+Lufthansa,OTP,FRA,6,85,155.0,0,80.0
+Ryanair,OTP,VIE,21,75,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,18,29,200.0,0,48.0
+Wizz Air Malta,OTP,BCN,12,25,200.0,0,52.0
+Tarom,OTP,AMS,8,75,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,7,32,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,79,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,7,70,340.0,1,92.0
+Ryanair,OTP,VIE,21,84,105.0,0,21.0
+KLM Royal Dutch Airlines,OTP,LHR,14,32,350.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,6,52,405.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,78,200.0,0,53.0
+Wizz Air Malta,OTP,BCN,18,63,200.0,0,47.0
+Air Serbia,OTP,LHR,16,36,300.0,1,111.0
+Lufthansa,OTP,FRA,6,67,155.0,0,80.0
+Lufthansa,OTP,FRA,6,50,155.0,0,80.0
+Tarom,OTP,AMS,8,61,185.0,0,113.0
+Ryanair,OTP,VIE,21,41,100.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,6,87,405.0,1,92.0
+Animawings,OTP,CDG,10,72,190.0,0,94.0
+Ryanair,OTP,VIE,12,55,105.0,0,24.0
+HiSky Europe,OTP,FRA,10,24,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,6,79,405.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,68,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,79,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,14,44,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,56,200.0,0,48.0
+KLM Royal Dutch Airlines,OTP,LHR,14,47,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,70,200.0,0,47.0
+Ryanair,OTP,VIE,21,75,105.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,63,350.0,1,92.0
+Ryanair,OTP,VIE,12,37,105.0,0,19.0
+Ryanair,OTP,VIE,21,38,105.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,32,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,7,55,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,58,300.0,1,92.0
+Ryanair,OTP,VIE,21,40,105.0,0,22.0
+Wizz Air Malta,OTP,AMS,13,36,375.0,1,61.0
+Wizz Air Malta,OTP,FCO,20,26,140.0,0,27.0
+Wizz Air Malta,OTP,BCN,18,32,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,12,57,200.0,0,52.0
+Lufthansa,OTP,FRA,6,87,155.0,0,80.0
+Ryanair,OTP,VIE,21,25,105.0,0,21.0
+KLM Royal Dutch Airlines,OTP,LHR,6,67,405.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,39,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,76,160.0,0,87.0
+HiSky Europe,OTP,FRA,10,57,160.0,0,77.0
+Wizz Air Malta,OTP,FCO,20,24,140.0,0,16.0
+HiSky Europe,OTP,FRA,10,74,160.0,0,77.0
+Ryanair,OTP,VIE,9,29,105.0,0,19.0
+Ryanair,OTP,VIE,21,45,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,6,48,200.0,0,51.0
+Lufthansa,OTP,FRA,6,53,155.0,0,80.0
+Ryanair,OTP,VIE,21,84,105.0,0,22.0
+Ryanair,OTP,VIE,21,84,100.0,0,22.0
+Ryanair,OTP,VIE,16,82,105.0,0,26.0
+Wizz Air Malta,OTP,FCO,20,56,140.0,0,27.0
+Wizz Air Malta,OTP,FCO,20,74,140.0,0,25.0
+Animawings,OTP,CDG,10,80,190.0,0,85.0
+Ryanair,OTP,VIE,21,58,105.0,0,21.0
+Wizz Air Malta,OTP,BCN,18,41,200.0,0,48.0
+HiSky Europe,OTP,FRA,10,69,160.0,0,87.0
+Wizz Air Malta,OTP,FCO,20,42,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,34,335.0,1,106.0
+Ryanair,OTP,VIE,21,71,105.0,0,19.0
+Ryanair,OTP,VIE,9,60,105.0,0,19.0
+Ryanair,OTP,VIE,21,30,100.0,0,22.0
+Wizz Air Malta,OTP,BCN,18,34,200.0,0,51.0
+Ryanair,OTP,VIE,12,51,105.0,0,19.0
+Ryanair,OTP,VIE,21,44,105.0,0,21.0
+Air Serbia,OTP,LHR,16,85,300.0,1,82.0
+Ryanair,OTP,VIE,12,84,105.0,0,23.0
+Ryanair,OTP,VIE,12,60,105.0,0,19.0
+Animawings,OTP,CDG,10,77,190.0,0,94.0
+Ryanair,OTP,VIE,21,60,105.0,0,22.0
+Ryanair,OTP,VIE,21,66,105.0,0,22.0
+Wizz Air Malta,OTP,FCO,20,31,140.0,0,24.0
+Ryanair,OTP,VIE,21,85,105.0,0,23.0
+Air Serbia,OTP,LHR,16,51,300.0,1,82.0
+HiSky Europe,OTP,FRA,10,57,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,20,35,140.0,0,16.0
+Wizz Air Malta,OTP,BCN,18,73,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,7,75,140.0,0,27.0
+HiSky Europe,OTP,CDG,10,76,180.0,0,98.0
+Ryanair,OTP,VIE,12,70,105.0,0,24.0
+Wizz Air Malta,OTP,FCO,20,49,140.0,0,16.0
+Wizz Air Malta,OTP,FCO,7,82,140.0,0,26.0
+Tarom,OTP,AMS,16,43,185.0,0,113.0
+Tarom,OTP,AMS,8,60,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,7,68,140.0,0,27.0
+Lufthansa,OTP,FRA,6,44,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,46,200.0,0,49.0
+HiSky Europe,OTP,CDG,10,82,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,6,44,200.0,0,49.0
+Lufthansa,OTP,FRA,14,58,155.0,0,79.0
+KLM Royal Dutch Airlines,OTP,LHR,14,27,300.0,1,106.0
+Wizz Air Malta,OTP,BCN,18,84,200.0,0,50.0
+Ryanair,OTP,VIE,21,35,100.0,0,22.0
+Wizz Air Malta,OTP,FCO,20,54,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,38,200.0,0,47.0
+Ryanair,OTP,VIE,12,48,105.0,0,24.0
+Wizz Air Malta,OTP,FCO,20,42,140.0,0,27.0
+Ryanair,OTP,VIE,21,33,100.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,35,200.0,0,48.0
+Wizz Air Malta,OTP,BCN,18,47,200.0,0,50.0
+Ryanair,OTP,VIE,16,46,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,18,34,200.0,0,50.0
+Ryanair,OTP,VIE,12,36,105.0,0,24.0
+Wizz Air Malta,OTP,FCO,7,80,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,7,58,140.0,0,27.0
+Ryanair,OTP,VIE,21,44,105.0,0,19.0
+Ryanair,OTP,VIE,16,63,105.0,0,26.0
+HiSky Europe,OTP,FRA,10,47,160.0,0,77.0
+Ryanair,OTP,VIE,21,84,100.0,0,25.0
+Wizz Air Malta,OTP,BCN,18,26,200.0,0,47.0
+KLM Royal Dutch Airlines,OTP,LHR,6,39,405.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,7,84,340.0,1,92.0
+Ryanair,OTP,VIE,21,64,105.0,0,22.0
+Animawings,OTP,CDG,10,46,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,18,61,200.0,0,47.0
+Ryanair,OTP,VIE,9,40,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,6,26,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,18,37,200.0,0,48.0
+KLM Royal Dutch Airlines,OTP,LHR,14,88,300.0,1,106.0
+Wizz Air Malta,OTP,BCN,6,82,200.0,0,53.0
+Wizz Air Malta,OTP,BCN,18,87,200.0,0,51.0
+Ryanair,OTP,VIE,9,36,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,12,31,200.0,0,52.0
+Wizz Air Malta,OTP,BCN,18,29,200.0,0,50.0
+Ryanair,OTP,VIE,12,79,105.0,0,24.0
+Ryanair,OTP,VIE,21,24,100.0,0,25.0
+Wizz Air Malta,OTP,FCO,20,44,140.0,0,25.0
+Ryanair,OTP,VIE,12,41,105.0,0,24.0
+Ryanair,OTP,VIE,12,39,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,7,49,340.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,47,335.0,1,106.0
+KLM Royal Dutch Airlines,OTP,LHR,14,24,350.0,1,92.0
+Ryanair,OTP,VIE,12,56,105.0,0,23.0
+Ryanair,OTP,VIE,21,71,105.0,0,23.0
+Wizz Air Malta,OTP,FCO,20,86,140.0,0,25.0
+Tarom,OTP,AMS,16,75,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,6,46,405.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,6,41,405.0,1,92.0
+Ryanair,OTP,VIE,21,37,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,59,200.0,0,48.0
+HiSky Europe,OTP,FRA,10,72,160.0,0,88.0
+Animawings,OTP,CDG,10,78,190.0,0,85.0
+Ryanair,OTP,VIE,12,72,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,69,200.0,0,51.0
+Tarom,OTP,AMS,8,47,185.0,0,113.0
+HiSky Europe,OTP,FRA,10,35,160.0,0,87.0
+KLM Royal Dutch Airlines,OTP,LHR,14,25,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,41,200.0,0,50.0
+KLM Royal Dutch Airlines,OTP,LHR,14,65,300.0,1,92.0
+Lufthansa,OTP,FRA,14,61,155.0,0,79.0
+KLM Royal Dutch Airlines,OTP,LHR,14,41,300.0,1,92.0
+Ryanair,OTP,VIE,12,46,105.0,0,23.0
+Ryanair,OTP,VIE,9,47,105.0,0,26.0
+Air Serbia,OTP,LHR,16,76,300.0,1,111.0
+Wizz Air Malta,OTP,BCN,6,63,200.0,0,50.0
+Ryanair,OTP,VIE,12,43,105.0,0,23.0
+Ryanair,OTP,VIE,12,79,105.0,0,23.0
+Air Serbia,OTP,LHR,16,32,300.0,1,111.0
+Ryanair,OTP,VIE,9,76,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,7,73,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,24,200.0,0,48.0
+Ryanair,OTP,VIE,9,37,105.0,0,26.0
+HiSky Europe,OTP,FRA,10,24,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,6,85,200.0,0,48.0
+Lufthansa,OTP,FRA,14,34,155.0,0,80.0
+Ryanair,OTP,VIE,21,74,105.0,0,22.0
+Ryanair,OTP,VIE,21,42,100.0,0,22.0
+KLM Royal Dutch Airlines,OTP,LHR,14,62,300.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,63,335.0,1,92.0
+Ryanair,OTP,VIE,9,34,105.0,0,26.0
+Animawings,OTP,CDG,10,59,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,6,87,200.0,0,51.0
+Air Serbia,OTP,LHR,16,29,300.0,1,82.0
+Air Serbia,OTP,LHR,16,40,300.0,1,82.0
+KLM Royal Dutch Airlines,OTP,LHR,14,53,300.0,1,92.0
+Wizz Air Malta,OTP,BCN,12,76,200.0,0,52.0
+KLM Royal Dutch Airlines,OTP,LHR,14,27,335.0,1,106.0
+Ryanair,OTP,VIE,9,58,105.0,0,19.0
+Ryanair,OTP,VIE,21,36,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,18,80,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,6,86,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,51,160.0,0,87.0
+Tarom,OTP,AMS,16,35,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,12,87,200.0,0,52.0
+Wizz Air Malta,OTP,FCO,20,60,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,61,200.0,0,51.0
+Ryanair,OTP,VIE,21,66,105.0,0,19.0
+Tarom,OTP,AMS,16,26,185.0,0,113.0
+Wizz Air Malta,OTP,BCN,18,88,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,12,65,200.0,0,52.0
+KLM Royal Dutch Airlines,OTP,LHR,14,44,350.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,88,200.0,0,50.0
+Ryanair,OTP,VIE,12,27,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,47,200.0,0,48.0
+Wizz Air Malta,OTP,FCO,20,44,140.0,0,27.0
+Wizz Air Malta,OTP,FCO,20,38,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,36,200.0,0,47.0
+Lufthansa,OTP,FRA,6,27,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,14,30,335.0,1,106.0
+Lufthansa,OTP,FRA,6,76,155.0,0,80.0
+Wizz Air Malta,OTP,FCO,20,84,140.0,0,27.0
+Ryanair,OTP,VIE,21,45,105.0,0,19.0
+Wizz Air Malta,OTP,FCO,20,85,140.0,0,16.0
+Wizz Air Malta,OTP,BCN,6,86,200.0,0,48.0
+KLM Royal Dutch Airlines,OTP,LHR,6,77,405.0,1,92.0
+Ryanair,OTP,VIE,21,45,100.0,0,25.0
+Wizz Air Malta,OTP,FCO,7,76,140.0,0,24.0
+Lufthansa,OTP,FRA,6,69,155.0,0,80.0
+Wizz Air Malta,OTP,AMS,13,49,375.0,1,61.0
+Wizz Air Malta,OTP,FCO,20,24,140.0,0,27.0
+Wizz Air Malta,OTP,AMS,13,88,375.0,1,61.0
+Air Serbia,OTP,LHR,16,35,300.0,1,111.0
+Wizz Air Malta,OTP,BCN,6,37,200.0,0,49.0
+Ryanair,OTP,VIE,21,82,100.0,0,22.0
+Wizz Air Malta,OTP,BCN,6,83,200.0,0,51.0
+Air Serbia,OTP,LHR,16,55,300.0,1,82.0
+Lufthansa,OTP,FRA,14,43,155.0,0,79.0
+Wizz Air Malta,OTP,FCO,20,72,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,20,40,140.0,0,24.0
+Tarom,OTP,AMS,16,28,185.0,0,113.0
+Ryanair,OTP,VIE,21,66,100.0,0,25.0
+Air Serbia,OTP,LHR,16,61,300.0,1,111.0
+Wizz Air Malta,OTP,BCN,18,75,200.0,0,50.0
+Animawings,OTP,CDG,10,88,190.0,0,94.0
+Animawings,OTP,CDG,10,71,190.0,0,85.0
+Animawings,OTP,CDG,10,67,190.0,0,85.0
+Ryanair,OTP,VIE,21,58,100.0,0,25.0
+Ryanair,OTP,VIE,9,81,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,18,45,200.0,0,50.0
+Wizz Air Malta,OTP,AMS,13,33,375.0,1,61.0
+Wizz Air Malta,OTP,BCN,6,43,200.0,0,53.0
+Wizz Air Malta,OTP,BCN,6,88,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,6,80,200.0,0,53.0
+KLM Royal Dutch Airlines,OTP,LHR,14,37,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,84,200.0,0,48.0
+KLM Royal Dutch Airlines,OTP,LHR,14,49,335.0,1,92.0
+Ryanair,OTP,VIE,9,47,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,14,53,335.0,1,106.0
+KLM Royal Dutch Airlines,OTP,LHR,14,83,335.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,55,200.0,0,51.0
+Wizz Air Malta,OTP,FCO,20,87,140.0,0,25.0
+Ryanair,OTP,VIE,12,50,105.0,0,19.0
+Animawings,OTP,CDG,10,86,190.0,0,94.0
+Ryanair,OTP,VIE,21,82,105.0,0,21.0
+KLM Royal Dutch Airlines,OTP,LHR,7,57,340.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,27,140.0,0,24.0
+Animawings,OTP,CDG,10,59,190.0,0,85.0
+Tarom,OTP,AMS,8,43,185.0,0,113.0
+Animawings,OTP,CDG,10,87,190.0,0,94.0
+Ryanair,OTP,VIE,21,41,100.0,0,25.0
+HiSky Europe,OTP,FRA,10,63,160.0,0,87.0
+Ryanair,OTP,VIE,12,62,105.0,0,24.0
+Wizz Air Malta,OTP,AMS,13,69,375.0,1,61.0
+Air Serbia,OTP,LHR,16,26,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,6,85,200.0,0,47.0
+Ryanair,OTP,VIE,21,76,100.0,0,25.0
+Animawings,OTP,CDG,10,29,190.0,0,85.0
+KLM Royal Dutch Airlines,OTP,LHR,6,26,405.0,1,92.0
+Ryanair,OTP,VIE,9,53,105.0,0,19.0
+HiSky Europe,OTP,FRA,10,53,160.0,0,88.0
+Air Serbia,OTP,LHR,16,58,300.0,1,82.0
+Ryanair,OTP,VIE,9,35,105.0,0,26.0
+Ryanair,OTP,VIE,9,36,105.0,0,19.0
+Air Serbia,OTP,LHR,16,59,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,6,67,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,6,69,200.0,0,53.0
+Wizz Air Malta,OTP,FCO,20,32,140.0,0,16.0
+HiSky Europe,OTP,FRA,10,47,160.0,0,87.0
+HiSky Europe,OTP,FRA,10,70,160.0,0,87.0
+KLM Royal Dutch Airlines,OTP,LHR,14,83,335.0,1,106.0
+HiSky Europe,OTP,FRA,10,58,160.0,0,87.0
+Wizz Air Malta,OTP,AMS,13,66,375.0,1,61.0
+HiSky Europe,OTP,FRA,10,85,160.0,0,87.0
+Wizz Air Malta,OTP,FCO,20,33,140.0,0,16.0
+Lufthansa,OTP,FRA,6,71,155.0,0,80.0
+Wizz Air Malta,OTP,FCO,7,51,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,66,200.0,0,49.0
+Air Serbia,OTP,LHR,16,42,300.0,1,82.0
+Wizz Air Malta,OTP,FCO,7,87,140.0,0,24.0
+HiSky Europe,OTP,FRA,10,36,160.0,0,87.0
+Tarom,OTP,AMS,16,73,185.0,0,113.0
+Wizz Air Malta,OTP,FCO,20,84,140.0,0,24.0
+Ryanair,OTP,VIE,12,60,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,6,29,200.0,0,47.0
+HiSky Europe,OTP,FRA,10,57,160.0,0,87.0
+HiSky Europe,OTP,FRA,10,53,160.0,0,77.0
+Wizz Air Malta,OTP,BCN,12,69,200.0,0,52.0
+Ryanair,OTP,VIE,21,64,105.0,0,19.0
+Animawings,OTP,CDG,10,76,190.0,0,94.0
+HiSky Europe,OTP,CDG,10,61,180.0,0,98.0
+KLM Royal Dutch Airlines,OTP,LHR,7,37,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,6,73,200.0,0,49.0
+Ryanair,OTP,VIE,12,77,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,6,85,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,6,64,200.0,0,53.0
+Ryanair,OTP,VIE,9,33,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,7,62,340.0,1,92.0
+Ryanair,OTP,VIE,9,59,105.0,0,19.0
+Ryanair,OTP,VIE,16,26,105.0,0,26.0
+HiSky Europe,OTP,FRA,10,55,160.0,0,77.0
+KLM Royal Dutch Airlines,OTP,LHR,6,65,405.0,1,92.0
+Animawings,OTP,CDG,10,52,190.0,0,94.0
+Ryanair,OTP,VIE,21,74,105.0,0,19.0
+Tarom,OTP,AMS,8,87,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,14,82,350.0,1,92.0
+Wizz Air Malta,OTP,BCN,18,37,200.0,0,50.0
+KLM Royal Dutch Airlines,OTP,LHR,14,61,335.0,1,92.0
+Air Serbia,OTP,LHR,16,76,300.0,1,82.0
+Ryanair,OTP,VIE,9,27,105.0,0,19.0
+Wizz Air Malta,OTP,AMS,13,47,375.0,1,61.0
+Wizz Air Malta,OTP,BCN,6,36,200.0,0,48.0
+Wizz Air Malta,OTP,BCN,18,69,200.0,0,47.0
+Ryanair,OTP,VIE,21,81,100.0,0,22.0
+Ryanair,OTP,VIE,21,63,100.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,14,28,300.0,1,92.0
+HiSky Europe,OTP,CDG,10,72,180.0,0,98.0
+Ryanair,OTP,VIE,16,29,105.0,0,26.0
+HiSky Europe,OTP,FRA,10,39,160.0,0,77.0
+Animawings,OTP,CDG,10,32,190.0,0,85.0
+Wizz Air Malta,OTP,BCN,18,26,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,14,28,300.0,1,106.0
+KLM Royal Dutch Airlines,OTP,LHR,7,41,340.0,1,92.0
+Wizz Air Malta,OTP,BCN,12,71,200.0,0,52.0
+Lufthansa,OTP,FRA,14,53,155.0,0,79.0
+Ryanair,OTP,VIE,12,59,105.0,0,19.0
+Ryanair,OTP,VIE,9,58,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,6,87,200.0,0,49.0
+Wizz Air Malta,OTP,FCO,20,59,140.0,0,16.0
+Air Serbia,OTP,LHR,16,87,300.0,1,111.0
+Lufthansa,OTP,FRA,14,47,155.0,0,80.0
+Wizz Air Malta,OTP,FCO,20,58,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,74,200.0,0,47.0
+Wizz Air Malta,OTP,FCO,7,60,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,41,200.0,0,50.0
+Ryanair,OTP,VIE,12,56,105.0,0,19.0
+Ryanair,OTP,VIE,16,70,105.0,0,26.0
+KLM Royal Dutch Airlines,OTP,LHR,14,37,350.0,1,92.0
+KLM Royal Dutch Airlines,OTP,LHR,14,24,300.0,1,92.0
+HiSky Europe,OTP,FRA,10,68,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,7,38,140.0,0,24.0
+Ryanair,OTP,VIE,21,57,105.0,0,19.0
+Wizz Air Malta,OTP,AMS,13,50,375.0,1,61.0
+HiSky Europe,OTP,CDG,10,88,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,6,75,200.0,0,53.0
+Wizz Air Malta,OTP,FCO,20,55,140.0,0,27.0
+Wizz Air Malta,OTP,FCO,20,62,140.0,0,24.0
+Wizz Air Malta,OTP,FCO,20,47,140.0,0,27.0
+Ryanair,OTP,VIE,21,86,100.0,0,22.0
+Lufthansa,OTP,FRA,14,57,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,6,65,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,12,37,200.0,0,52.0
+Ryanair,OTP,VIE,21,37,100.0,0,25.0
+Ryanair,OTP,VIE,21,49,105.0,0,22.0
+Wizz Air Malta,OTP,BCN,18,30,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,20,37,140.0,0,16.0
+Wizz Air Malta,OTP,BCN,6,53,200.0,0,53.0
+Wizz Air Malta,OTP,BCN,6,54,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,6,38,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,18,50,200.0,0,47.0
+Wizz Air Malta,OTP,BCN,6,60,200.0,0,51.0
+Ryanair,OTP,VIE,12,43,105.0,0,24.0
+Wizz Air Malta,OTP,FCO,7,79,140.0,0,27.0
+Wizz Air Malta,OTP,BCN,6,79,200.0,0,50.0
+Ryanair,OTP,VIE,21,50,105.0,0,23.0
+Ryanair,OTP,VIE,21,52,100.0,0,22.0
+Air Serbia,OTP,LHR,16,53,300.0,1,82.0
+Wizz Air Malta,OTP,FCO,7,70,140.0,0,27.0
+Ryanair,OTP,VIE,21,54,100.0,0,22.0
+Animawings,OTP,CDG,10,66,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,12,55,200.0,0,52.0
+Wizz Air Malta,OTP,FCO,7,58,140.0,0,25.0
+Ryanair,OTP,VIE,21,51,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,87,200.0,0,47.0
+Ryanair,OTP,VIE,9,87,105.0,0,19.0
+Ryanair,OTP,VIE,12,57,105.0,0,23.0
+Wizz Air Malta,OTP,AMS,13,45,375.0,1,61.0
+Wizz Air Malta,OTP,FCO,20,40,140.0,0,16.0
+HiSky Europe,OTP,FRA,10,79,160.0,0,87.0
+Ryanair,OTP,VIE,21,56,100.0,0,25.0
+Ryanair,OTP,VIE,21,77,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,6,80,200.0,0,49.0
+Wizz Air Malta,OTP,FCO,7,78,140.0,0,26.0
+Wizz Air Malta,OTP,AMS,13,61,375.0,1,61.0
+Wizz Air Malta,OTP,BCN,6,59,200.0,0,53.0
+Wizz Air Malta,OTP,FCO,20,48,140.0,0,25.0
+Wizz Air Malta,OTP,FCO,20,77,140.0,0,24.0
+HiSky Europe,OTP,FRA,10,45,160.0,0,88.0
+KLM Royal Dutch Airlines,OTP,LHR,14,35,300.0,1,92.0
+HiSky Europe,OTP,FRA,10,58,160.0,0,77.0
+Ryanair,OTP,VIE,21,81,105.0,0,19.0
+HiSky Europe,OTP,FRA,10,86,160.0,0,77.0
+Wizz Air Malta,OTP,BCN,6,76,200.0,0,49.0
+Wizz Air Malta,OTP,FCO,20,60,140.0,0,24.0
+Ryanair,OTP,VIE,9,63,105.0,0,19.0
+Ryanair,OTP,VIE,21,25,100.0,0,25.0
+Ryanair,OTP,VIE,12,44,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,35,200.0,0,51.0
+Lufthansa,OTP,FRA,14,81,155.0,0,79.0
+Lufthansa,OTP,FRA,14,41,155.0,0,79.0
+Tarom,OTP,AMS,16,54,185.0,0,113.0
+HiSky Europe,OTP,FRA,10,84,160.0,0,77.0
+Ryanair,OTP,VIE,21,62,105.0,0,22.0
+Wizz Air Malta,OTP,FCO,7,45,140.0,0,25.0
+HiSky Europe,OTP,CDG,10,28,180.0,0,98.0
+Air Serbia,OTP,LHR,16,32,300.0,1,82.0
+Lufthansa,OTP,FRA,14,82,155.0,0,80.0
+Ryanair,OTP,VIE,9,41,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,6,32,405.0,1,92.0
+Air Serbia,OTP,LHR,16,82,300.0,1,111.0
+Wizz Air Malta,OTP,BCN,6,86,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,14,45,350.0,1,92.0
+Lufthansa,OTP,FRA,14,79,155.0,0,79.0
+Tarom,OTP,AMS,8,54,185.0,0,113.0
+KLM Royal Dutch Airlines,OTP,LHR,14,79,335.0,1,92.0
+Lufthansa,OTP,FRA,6,43,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,18,56,200.0,0,47.0
+Wizz Air Malta,OTP,FCO,7,81,140.0,0,26.0
+Air Serbia,OTP,LHR,16,63,300.0,1,111.0
+Wizz Air Malta,OTP,BCN,18,80,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,18,68,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,6,40,200.0,0,49.0
+Air Serbia,OTP,LHR,16,60,300.0,1,111.0
+Ryanair,OTP,VIE,21,74,100.0,0,22.0
+Wizz Air Malta,OTP,FCO,7,34,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,18,85,200.0,0,48.0
+Ryanair,OTP,VIE,21,39,105.0,0,23.0
+Wizz Air Malta,OTP,BCN,18,62,200.0,0,51.0
+KLM Royal Dutch Airlines,OTP,LHR,14,28,350.0,1,92.0
+Animawings,OTP,CDG,10,69,190.0,0,94.0
+Wizz Air Malta,OTP,FCO,20,67,140.0,0,16.0
+Animawings,OTP,CDG,10,71,190.0,0,94.0
+KLM Royal Dutch Airlines,OTP,LHR,14,61,350.0,1,92.0
+HiSky Europe,OTP,FRA,10,31,160.0,0,87.0
+Wizz Air Malta,OTP,BCN,18,72,200.0,0,48.0
+Wizz Air Malta,OTP,BCN,12,32,200.0,0,52.0
+KLM Royal Dutch Airlines,OTP,LHR,14,59,335.0,1,92.0
+Ryanair,OTP,VIE,16,31,105.0,0,26.0
+HiSky Europe,OTP,FRA,10,78,160.0,0,77.0
+Wizz Air Malta,OTP,BCN,18,55,200.0,0,47.0
+Ryanair,OTP,VIE,21,47,105.0,0,23.0
+Ryanair,OTP,VIE,21,54,105.0,0,21.0
+Ryanair,OTP,VIE,21,79,105.0,0,19.0
+Ryanair,OTP,VIE,16,65,105.0,0,26.0
+Lufthansa,OTP,FRA,6,47,155.0,0,80.0
+KLM Royal Dutch Airlines,OTP,LHR,14,52,335.0,1,106.0
+Animawings,OTP,CDG,10,77,190.0,0,85.0
+Wizz Air Malta,OTP,FCO,7,25,140.0,0,25.0
+Lufthansa,OTP,FRA,14,66,155.0,0,80.0
+Wizz Air Malta,OTP,FCO,7,48,140.0,0,24.0
+KLM Royal Dutch Airlines,OTP,LHR,14,34,335.0,1,92.0
+HiSky Europe,OTP,FRA,10,31,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,20,70,140.0,0,25.0
+Wizz Air Malta,OTP,AMS,13,39,375.0,1,61.0
+Ryanair,OTP,VIE,12,70,105.0,0,23.0
+Air Serbia,OTP,LHR,16,40,300.0,1,111.0
+KLM Royal Dutch Airlines,OTP,LHR,14,46,350.0,1,92.0
+Ryanair,OTP,VIE,9,41,105.0,0,26.0
+Ryanair,OTP,VIE,12,30,105.0,0,23.0
+HiSky Europe,OTP,CDG,10,81,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,6,72,200.0,0,53.0
+Ryanair,OTP,VIE,21,44,100.0,0,22.0
+Wizz Air Malta,OTP,FCO,20,50,140.0,0,16.0
+Wizz Air Malta,OTP,FCO,20,33,140.0,0,25.0
+Lufthansa,OTP,FRA,14,40,155.0,0,79.0
+Air Serbia,OTP,LHR,16,72,300.0,1,82.0
+Wizz Air Malta,OTP,BCN,18,44,200.0,0,48.0
+Air Serbia,OTP,LHR,16,65,300.0,1,82.0
+KLM Royal Dutch Airlines,OTP,LHR,6,28,405.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,27,140.0,0,25.0
+Wizz Air Malta,OTP,AMS,13,56,375.0,1,61.0
+Wizz Air Malta,OTP,BCN,18,81,200.0,0,48.0
+HiSky Europe,OTP,FRA,10,74,160.0,0,88.0
+Wizz Air Malta,OTP,FCO,20,38,140.0,0,27.0
+Ryanair,OTP,VIE,12,54,105.0,0,24.0
+Animawings,OTP,CDG,10,47,190.0,0,94.0
+KLM Royal Dutch Airlines,OTP,LHR,14,78,350.0,1,92.0
+Ryanair,OTP,VIE,21,44,100.0,0,25.0
+Wizz Air Malta,OTP,FCO,7,87,140.0,0,26.0
+Lufthansa,OTP,FRA,6,56,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,6,64,200.0,0,50.0
+Lufthansa,OTP,FRA,6,70,155.0,0,80.0
+Lufthansa,OTP,FRA,14,24,155.0,0,80.0
+Ryanair,OTP,VIE,21,39,105.0,0,21.0
+Ryanair,OTP,VIE,12,76,105.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,54,200.0,0,50.0
+Ryanair,OTP,VIE,12,85,105.0,0,24.0
+HiSky Europe,OTP,FRA,10,52,160.0,0,77.0
+Wizz Air Malta,OTP,FCO,20,68,140.0,0,25.0
+KLM Royal Dutch Airlines,OTP,LHR,7,52,340.0,1,92.0
+Ryanair,OTP,VIE,12,84,105.0,0,19.0
+KLM Royal Dutch Airlines,OTP,LHR,7,78,340.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,82,140.0,0,27.0
+Wizz Air Malta,OTP,FCO,7,66,140.0,0,24.0
+Ryanair,OTP,VIE,12,28,105.0,0,24.0
+Lufthansa,OTP,FRA,6,66,155.0,0,80.0
+Ryanair,OTP,VIE,16,72,105.0,0,26.0
+Wizz Air Malta,OTP,FCO,7,36,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,6,74,200.0,0,50.0
+Lufthansa,OTP,FRA,14,50,155.0,0,80.0
+Ryanair,OTP,VIE,21,69,105.0,0,22.0
+Tarom,OTP,AMS,8,83,185.0,0,113.0
+Ryanair,OTP,VIE,21,66,105.0,0,21.0
+Animawings,OTP,CDG,10,37,190.0,0,94.0
+Wizz Air Malta,OTP,BCN,18,55,200.0,0,51.0
+Wizz Air Malta,OTP,BCN,6,83,200.0,0,49.0
+KLM Royal Dutch Airlines,OTP,LHR,7,50,340.0,1,92.0
+Wizz Air Malta,OTP,FCO,20,63,140.0,0,25.0
+Wizz Air Malta,OTP,BCN,6,35,200.0,0,50.0
+Wizz Air Malta,OTP,FCO,7,88,140.0,0,24.0
+Wizz Air Malta,OTP,BCN,12,80,200.0,0,52.0
+Ryanair,OTP,VIE,9,85,105.0,0,26.0
+Ryanair,OTP,VIE,21,27,105.0,0,22.0
+Wizz Air Malta,OTP,FCO,20,61,140.0,0,25.0
+Ryanair,OTP,VIE,16,43,105.0,0,26.0
+Ryanair,OTP,VIE,9,80,105.0,0,19.0
+Wizz Air Malta,OTP,BCN,18,66,200.0,0,47.0
+Ryanair,OTP,VIE,16,76,105.0,0,26.0
+HiSky Europe,OTP,CDG,10,46,180.0,0,98.0
+Lufthansa,OTP,FRA,6,33,155.0,0,80.0
+Ryanair,OTP,VIE,21,83,100.0,0,25.0
+Wizz Air Malta,OTP,FCO,7,39,140.0,0,24.0
+Lufthansa,OTP,FRA,14,71,155.0,0,79.0
+Wizz Air Malta,OTP,BCN,6,24,200.0,0,49.0
+Wizz Air Malta,OTP,BCN,18,33,200.0,0,47.0
+Wizz Air Malta,OTP,FCO,20,48,140.0,0,27.0
+Air Serbia,OTP,LHR,16,72,300.0,1,111.0
+Wizz Air Malta,OTP,AMS,13,43,375.0,1,61.0
+Ryanair,OTP,VIE,16,48,105.0,0,26.0
+Wizz Air Malta,OTP,BCN,18,74,200.0,0,48.0
+Ryanair,OTP,VIE,12,82,105.0,0,24.0
+Wizz Air Malta,OTP,FCO,20,55,140.0,0,16.0
+Wizz Air Malta,OTP,BCN,6,73,200.0,0,53.0
+Lufthansa,OTP,FRA,14,39,155.0,0,80.0
+Ryanair,OTP,VIE,12,58,105.0,0,19.0
+Lufthansa,OTP,FRA,14,26,155.0,0,79.0
+Wizz Air Malta,OTP,FCO,7,84,140.0,0,24.0
+HiSky Europe,OTP,CDG,10,68,180.0,0,98.0
+Wizz Air Malta,OTP,BCN,6,54,200.0,0,53.0
+HiSky Europe,OTP,FRA,10,30,160.0,0,88.0
+Wizz Air Malta,OTP,BCN,6,49,200.0,0,50.0
+Wizz Air Malta,OTP,BCN,18,33,200.0,0,51.0
+Ryanair,OTP,VIE,12,68,105.0,0,24.0
+Ryanair,OTP,VIE,9,57,105.0,0,19.0
+Lufthansa,OTP,FRA,14,87,155.0,0,80.0
+Wizz Air Malta,OTP,BCN,18,46,200.0,0,51.0
+HiSky Europe,OTP,CDG,10,47,180.0,0,98.0
+HiSky Europe,OTP,FRA,10,50,160.0,0,77.0
+Tarom,OTP,AMS,8,41,185.0,0,113.0
