@@ -1,0 +1,52 @@
+-------Window_join-------
+Functia CMMDC calculeaza cel mai mare divizor comun dupa algoritmul lui Euclid, astfel poate manipula numere mari 
+Functia CMMMC calculeaza cel mai mic multiplu comun folosindu-se de functia CMMDC
+Programul citeste variabila window, iar apoi vectorii de tip unsigned long int (tip folosit pentru a respecta dimensiunea)
+Acesta face apoi diferenta dintre timestamp-uri pentru fiecare pereche de valori (compara timestamp-ul unui element cu timestamp-urile 
+elementelor de dupa acesta, intrucat timestamp-urile sunt ordonate crescator). 
+Pentru diferentele care respecta valoarea lui window, programul foloseste functiile de mai sus si ne afiseaza pentru fiecare pereche 
+valida cel mai mic multiplu comun si cel mai mare divior comun.
+
+
+----------Akari----------
+Functia ziduri_numar este facuta pentru a inlocui toate caracterele '-' din jurul unui zid numerotat cu * tinand cont de faptul ca
+nu poate pune * daca numarul de becuri nu este egal cu cel de pe zid
+Functia inlocuire_x inlocuieste celulele de pe linia si coloana fiecarui beculet pana cand intalneste ceva ce nu trebuie inlocuit
+Functia verifica_linii_coloane ne spune daca doua becuri sunt puse pe aceeasi linie sau coloana fara sa fie despartite 
+de un zid (daca se incalca regula akari)
+Functia checker verifica daca numarul de beculete de langa fiecare zid numerotat este potrivit, iar in cazul in care numarul de 
+beculete este mai mic decat cel al zidului, checker verifica daca celelalte becuri de pe plansa permit adaugarea pana la numarul
+potrivit de becuri
+In main, se citeste optiunea de joc si dimensiunile jocului dupa care se citeste un vector de string-uri cu numele joculet caruia 
+i se elimina caracterele '\n' (inafara de ultimul element dupa ce am avut o lupta cu checkerul)
+Apoi, indiferent de optiunea de joc, matricea este modificata folosind primele doua functii.
+In cazul primei optiuni, acesta doar ne afiseaza modificarile facute, iar in cazul celei de a doua
+programul se foloseste de modificarile facute pentru a verifica daca jocul dat la intrare respecta sau nu regulile si printeaza ichi,
+respectiv zero.
+
+
+-------Helicopters-------
+Functia elicopter_valid verifica daca punctele date la intrare formeaza ipotenuza unui triunghi (elicopter) 
+valid (ipotenuza paralela cu una din diagonale) si returneaza apoi lungimea acesteia pentru a fi folosita mai tarziu (cate celule contine)
+Functia elicopter_suma calculeaza cate celule cu valoarea 1 avem intr-un triunghi (elicopter) informatie din care putem deduce cate 
+celule cu valoarea 0 sunt. Functia isi formeaza singura un chenar format din triunghiul dat si triunghiul complementar (care nu contine 
+informatii utile). Se foloseste apoi de formula Manhattan pentru a determina daca o celula trebuie sau nu adunata la suma
+Functia elicopter_pozitionat calculeaza cate celule are un triunghi (cu ajutorul functiei valid), iar apoi 
+se foloseste de cele doua puncte date si de variabila s pentru a determina fiecare triunghi si apeleaza functia elicopter_suma. Dupa aceea,
+se compara rezultatul de la elicopter_suma cu numarul de celule al triunghiului pentru a determina daca acesta nu afecteaza nici un
+patratel din teren sau daca este pus "gresit"
+In main se citesc dimensiunile matricei si harta elicopterelor in acelasi fel ca la problema akari (cu o mica schimbare la eliminarea 
+caracterelor tot dupa o lupta intensa cu checker-ul), iar apoi vectorii cu pozitiile varfurilor de pe ipotenuza (valori pe care le-am 
+decrementat cu 1 pentru a se potrivi cu indentarea).
+Avem apoi o variabila ord care tine cont la trecerea prin vectorii cu pozitiile de numarul elicopterului la care suntem (pentru ca 
+trecerea incepe de la 0 dar la iesire se asteapta ordinea incepand cu 1)
+Se apeleaza elicopter_pozitionat si este pus intr-o variabila care este folosita pentru numararea elicopterelor care nu afecteaza
+nici o celula cu umbra si numararea elicopterelor puse gresit (aceste numarari sunt facute dupa validarea triunghiurilor)
+Pentru eicopterele puse gresit se pun intr-un vector numerele lor de ordine (crescator)
+La final se afiseaza elicopterele invalide, numarul elicopterelor care nu afecteaza celule cu umbra, numarul elicopterelor puse gresit 
+si numerele de ordine ale elicopterelor puse greit.
+
+Akari + Helicopters:
+La ambele probleme am tinut cont de xistenta spatiilor asa ca la trecerea prin string-uri am incrementat valoarea intregului din for
+cu 2 pentru a nu gresi problema.
+

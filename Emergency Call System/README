@@ -1,0 +1,42 @@
+Gheorghe Alexandru-Nicolae - 311CB
+  Total tema:   120/120
+
+Pentru aceasta tema am ales o implementare mai lunga dpdv al 
+liniilor scrise, intrucat am ales sa separ fiecare tip de coada/stiva
+in functie de structura pe care o avea la baza(exista si optiunea de lucru cu void si casturi)
+
+Mare parte din liste sunt implementari de la laboratoare
+carora le-am aplicat mici modificari. Partea noua si diferita a fost la cozile
+de incidente si interventii unde a trebuit sa lucrez cu pointerii celulelor din lista
+intrucat cerinta nu permitea copierea celulelor, ci doar salvarea pointerilor
+
+A trebuit sa stochez capacitatile maxime ale cozilor si a stivei
+intrucat implementarea cozilor de incidente/interventii functiona 
+asemanator unui vector de pointeri catre celulele din lista.
+
+Citirea comenzilor este inspirata din implementarea unei cerinte asemanatoare
+dintr-o tema la PCLP1. Aceasta citeste caracter cu caracter si aloca exact cat
+este nevoie. comenzile merg apoi la interpretare comanda, unde se compara cu
+input-urile cerute de cerinta
+
+In add_incident, folosim sscanf pentru a citi direct din comanda variabilele
+pe care le folosim in crearea unui nou incident. Se citeste descrierea intr-un
+string auxiliar, dupa care se aloca string-ului din structura de incident dimensiunea
+exacta ceruta in cerinta. In functie de priority, se adauga incidentul intr-o coada
+corespunzatoare
+
+Dispatch pregateste o unitate si o interventie(neinitializata) incearca sa extraga un incident din fiecare coada in ordinea prioritatii, incepand cu 
+high_priority (daca nu reuseste sa extraga din nici o coada se afiseaza eroarea si se introduce unitatea la loc in coada).
+Daca extragerea se realizeaza cu succes, interventiei i se da statusul intervened si i se atribuie unitatea si incidentul extras(adresele).
+Interventia e adaugata atat in lista cat si in varful stivei
+
+In undo se extrage varful stivei de interventii pana cand se gaseste o interventie
+al carei incident are statusul intervened(nu solved). Se schimba statusul inapoi in queued
+se reintroduce incidentul in coada (la capatul de extragere, in cazul nostru sf) si unitatea
+inapoi in coada de unitati, dar cu introducere normala(nu a fost nev de alta functie)
+
+Pentru solved se cauta incidentul cu id-ul dat, se marcheaza statusul cu solved, iar unitatea intra 
+iar in coada. Interventia ramane neafectata (nu se extrage din lista sau din stiva)
+
+Main-ul e folosit pentru initializari, implementarea pe case-uri 
+si eliberarea memoriei.

@@ -1,0 +1,27 @@
+Gheorghe Alexandru-Nicolae 311CB
+
+Pentru aceasta tema am ales o implementare care depinde foarte mult de parcurgerea arborelui
+(pentru cautarea cuvintelor si a nodurilor frunza). Am decis sa nu introduc in structura fisierului
+o lista de cuvinte pentru ca mi s-a parut ca parcurgerea prin arbore putea fi destul de generalizata
+(preorder_cuvant_cheie gasetse si frunza dar poate sa si suprascrie arborele), sau in cazul in care 
+nu putea fi generalizata complet, trecerea prin arbore ramanea destul de asemanatoare cu mici schimbari.
+(prefix_preorder)
+
+Aceasta implementare mi-a permis sa ma obisnuiesc mai mult cu folosirea arborelui si totodata am evitat
+alocarea unei liste de cuvinte in structurile fisierelor. 
+
+Functiile de delete asigura faptul ca nu vor ramane cuvinte cheie fara fisiere atribuite
+acestea sterg fiecare frunza care nu are o lista de fisiere/ e goala recursiv pana cand arborele 
+respecta cerinta
+
+De asemenea, odata ajuns la implementarea lui find, am schimbat procedeele de adaugare pentru
+a le adauga direct in ordine lexicografica, pentru a-mi ajuta implementarea lui FIND.
+
+TOPK creeaza un heap cu relatia max-heap bazata pe scorul de relevanta si extrage in functie de numarul de elemente
+cerute
+
+Prefix cauta nodul corespunzator terminarii sirului dat ca prefix, iar apoi prin colecteaza subarbore
+cauta toate fisierele si le pune intr-o lista de identificatori(o singura data fiecare)
+
+Majoritatea functiilor au fost preluate din laboratoare si au suferit modificari in principal pentru
+a folosi fisiere ca info(in cazul listelor) si caractere ca info(in cazul arborelui)

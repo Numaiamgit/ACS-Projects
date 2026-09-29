@@ -1,0 +1,23 @@
+Pentru aceasta tema am ales sa folosesc un vector care sa tina minte starile programului.
+
+Programul ia fiecare comanda si foloseste interpretare pentru a gasi valoarea case-ului
+din switch
+
+Aceste stari sunt constituite doar din partile undo-able(spre exemplu, intr-o stare nu se
+stocheaza rezultatul derivarilor).
+Starile undone sunt marcate, la fel si cele undone dar non-redoable.
+Starile tin minte si mesajele de confirmare ale comenzilor undo-able pentru cazurile in care
+acestea sunt undone si apoi redone
+
+La lsystems m-am folosit de codurile ascii ale ccaracterelor si astfel am stocat 
+intr-un vector de dimensiune 256. Derive cauta regula dupa cod, iar daca nu gaseste una
+lasa caracterul in forma initiala si merge mai departe
+
+Am facut mai multe functii de deepcopy si clean pentru a scapa de codul repetitiv
+
+La turtle am intai functia de handle a cazului, care trimite informatiile la coord_linie_turtle
+unde se afla coordonatele intre care trbuie tarsata linie (in cazul F), + - schimba unghiul
+Iar in cazul parantezelor patrate se retin coordonatele si rotatia turtle pe o stiva (regula
+Last In First Out)
+
+In Makefile se compileaza cu -lm pentru sin si cos din aflarea coordonatelor la turtle
